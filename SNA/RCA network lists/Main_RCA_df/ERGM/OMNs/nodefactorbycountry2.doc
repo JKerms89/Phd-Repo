@@ -1,0 +1,48 @@
+
+=================================================================================================
+Poland        Italy         Netherlands   Germany
+-------------------------------------------------------------------------------------------------
+nodefactor.act_nat.EUROPEAN UNION              0.19          0.22          0.41 **       0.37 ** 
+                                              (0.13)        (0.18)        (0.13)        (0.12)   
+nodefactor.act_nat.POLAND                     -0.67 ***                                          
+                                              (0.12)                                             
+mix.act_nat.EUROPEAN UNION.EUROPEAN UNION      1.35 ***      0.79 *        0.76 **       0.94 ***
+                                              (0.27)        (0.33)        (0.28)        (0.24)   
+mix.act_nat.POLAND.EUROPEAN UNION              1.70 ***                                          
+                                              (0.20)                                             
+mix.act_nat.EUROPEAN UNION.POLAND              0.99 ***                                          
+                                              (0.24)                                             
+mix.act_nat.POLAND.POLAND                      2.46 ***                                          
+                                              (0.22)                                             
+edges                                         -6.28 ***     -5.74 ***     -6.19 ***     -6.19 ***
+                                              (0.07)        (0.13)        (0.08)        (0.07)   
+nodefactor.act_nat.ITALY                                    -0.61 ***                            
+                                                            (0.17)                               
+mix.act_nat.ITALY.EUROPEAN UNION                             1.52 ***                            
+                                                            (0.24)                               
+mix.act_nat.EUROPEAN UNION.ITALY                            -0.30                                
+                                                            (0.34)                               
+mix.act_nat.ITALY.ITALY                                      1.92 ***                            
+                                                            (0.27)                               
+nodefactor.act_nat.NETHERLANDS                                            -0.44 **               
+                                                                          (0.14)                 
+mix.act_nat.NETHERLANDS.EUROPEAN UNION                                     1.61 ***              
+                                                                          (0.22)                 
+mix.act_nat.EUROPEAN UNION.NETHERLANDS                                    -2.51 *                
+                                                                          (1.02)                 
+mix.act_nat.NETHERLANDS.NETHERLANDS                                        2.36 ***              
+                                                                          (0.27)                 
+nodefactor.act_nat.GERMANY                                                              -0.12    
+                                                                                        (0.12)   
+mix.act_nat.GERMANY.EUROPEAN UNION                                                       1.49 ***
+                                                                                        (0.19)   
+mix.act_nat.EUROPEAN UNION.GERMANY                                                      -0.96 *  
+                                                                                        (0.41)   
+mix.act_nat.GERMANY.GERMANY                                                              1.30 ***
+                                                                                        (0.25)   
+-------------------------------------------------------------------------------------------------
+AIC                                         9720.61       6312.91       6695.58       8113.36    
+BIC                                         9795.26       6381.08       6766.44       8185.32    
+Log Likelihood                             -4853.31      -3149.46      -3340.79      -4049.68    
+=================================================================================================
+*** p < 0.001; ** p < 0.01; * p < 0.05

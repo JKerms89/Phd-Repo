@@ -1,0 +1,261 @@
+Id,Label,timeset,mode,act_type,nat,colour,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,pageranks,componentnumber,clustering,triangles,eigencentrality
+Polish PM,Polish PM,,1,Polish PM,POLAND,"#FFE428",3,18,4,0.412791,0.450704,987.290487,0.017446,0.135206,20,0.004592,0,0,0,0.171571
+French Government,French Government,,1,French Government,FRANCE,"#6A886D",2,4,6,0.302557,0.341315,836,0.005065,0.03925,0,0.003553,0,0,0,0.06446
+Platforma Obywatelska,Platforma Obywatelska,,1,Platforma Obywatelska,POLAND,"#FFE428",2,24,4,0.394444,0.434664,448.574112,0.01665,0.129035,20,0.00327,0,0,0,0.158776
+European Research Group,European Research Group,,1,European Research Group,UNITED KINGDOM,"#E879A3",1,1,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+UK Government,UK Government,,1,UK Government,UNITED KINGDOM,"#E879A3",1,2,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+European Union,European Union,,1,European Union,EUROPEAN UNION,"#5C9A5C",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+European Commission,European Commission,,1,European Commission,EUROPEAN UNION,"#5C9A5C",2,8,4,0.394444,0.434664,448.574112,0.01665,0.129035,21,0.00327,0,0,0,0.158776
+Prawo i Sprawiedliwosc,Prawo i Sprawiedliwosc,,1,Prawo i Sprawiedliwosc,POLAND,"#FFE428",2,20,4,0.394444,0.434664,448.574112,0.01665,0.129035,20,0.00327,0,0,0,0.158776
+UK Labour Party,UK Labour Party,,1,UK Labour Party,UNITED KINGDOM,"#E879A3",1,1,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+UK Conservative Party,UK Conservative Party,,1,UK Conservative Party,UNITED KINGDOM,"#E879A3",1,2,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+UK Civil Service,UK Civil Service,,1,UK Civil Service,UNITED KINGDOM,"#E879A3",1,1,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+Brexit negotiator,Brexit negotiator,,1,Brexit negotiator,EUROPEAN UNION,"#5C9A5C",1,2,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Gazeta Wyborcza,Gazeta Wyborcza,,1,Gazeta Wyborcza,POLAND,"#FFE428",6,20,4,0.451271,0.482394,4775.48632,0.018076,0.14009,20,0.009153,0,0,0,0.187891
+Russian Government,Russian Government,,1,Russian Government,RUSSIAN FEDERATION,"#E8D430",1,1,8,0.18984,0.202979,0,0.000051,0.000399,0,0.002227,0,0,0,0.002815
+Byrt Andrzej,Byrt Andrzej,,1,Byrt Andrzej,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Prezydent Rzeczypospolitej,Prezydent Rzeczypospolitej,,1,Prezydent Rzeczypospolitej,POLAND,"#FFE428",2,11,4,0.394444,0.434664,448.574112,0.01665,0.129035,20,0.00327,0,0,0,0.158776
+Center for European Policy Analysis,Center for European Policy Analysis,,1,Center for European Policy Analysis,UNITED STATES,"#EF7DB1",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Markiel Krzysztof,Markiel Krzysztof,,1,Markiel Krzysztof,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Polish vox pop,Polish vox pop,,1,Polish vox pop,POLAND,"#FFE428",2,2,4,0.394444,0.434664,448.574112,0.01665,0.129035,21,0.00327,0,0,0,0.158776
+Fakt,Fakt,,1,Fakt,POLAND,"#FFE428",1,2,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Razem,Razem,,1,Razem,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Polish Embassy in the UK,Polish Embassy in the UK,,1,Polish Embassy in the UK,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+European Court of Justice,European Court of Justice,,1,European Court of Justice,EUROPEAN UNION,"#5C9A5C",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+The City is Ours,The City is Ours,,1,The City is Ours,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Avaaz,Avaaz,,1,Avaaz,NA,"#FFA910",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+US President,US President,,1,US President,UNITED STATES,"#EF7DB1",2,6,6,0.313235,0.366667,836,0.011756,0.09111,2,0.003604,0,0,0,0.100141
+Bundesverteidigungsministerium,Bundesverteidigungsministerium,,1,Bundesverteidigungsministerium,GERMANY,"#717F75",1,2,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Ukrainian President,Ukrainian President,,1,Ukrainian President,UKRAINE,"#E07595",1,1,2,0.571429,0.625,0,0,0,22,0.00252,1,0,0,0.002355
+Ukrainian Government,Ukrainian Government,,1,Ukrainian Government,UKRAINE,"#E07595",1,1,2,0.571429,0.625,0,0,0,22,0.00252,1,0,0,0.002355
+Prezes Rady Ministrów,Prezes Rady Ministrów,,1,Prezes Rady Ministrów,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Council of Europe,Council of Europe,,1,Council of Europe,EUROPEAN UNION,"#5C9A5C",2,4,6,0.314159,0.36784,287.083333,0.011933,0.092481,20,0.003398,0,0,0,0.102014
+Italian vox pop,Italian vox pop,,1,Italian vox pop,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+President of Turkey,President of Turkey,,1,President of Turkey,TURKEY,"#D16D79",1,3,2,0.6,0.666667,0,0,0,3,0.002667,3,0,0,0.001996
+EU Council,EU Council,,1,EU Council,EUROPEAN UNION,"#5C9A5C",2,4,6,0.310496,0.351878,546,0.005274,0.040875,1,0.003368,0,0,0,0.070012
+PFPZ,PFPZ,,1,PFPZ,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Regione Lombardia,Regione Lombardia,,1,Regione Lombardia,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+Tobis Andrzej,Tobis Andrzej,,1,Tobis Andrzej,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+NATO Secretary General,NATO Secretary General,,1,NATO Secretary General,NA,"#FFA910",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+US House of Representatives,US House of Representatives,,1,US House of Representatives,UNITED STATES,"#EF7DB1",1,1,1,1,1,0,0,0,4,0.003846,4,0,0,0.001304
+Jagiellonian University,Jagiellonian University,,1,Jagiellonian University,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+En Marche,En Marche,,1,En Marche,FRANCE,"#6A886D",2,3,4,0.394444,0.434664,448.574112,0.01665,0.129035,20,0.00327,0,0,0,0.158776
+Polish judges,Polish judges,,1,Polish judges,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Office for National Statistics,Office for National Statistics,,1,Office for National Statistics,UNITED KINGDOM,"#E879A3",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Scottish National Party,Scottish National Party,,1,Scottish National Party,UNITED KINGDOM,"#E879A3",1,1,1,1,1,0,0,0,5,0.003846,5,0,0,0.001304
+Polish Government,Polish Government,,1,Polish Government,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Blumsztajn Weseryn,Blumsztajn Weseryn,,1,Blumsztajn Weseryn,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Turkish Foreign Ministry,Turkish Foreign Ministry,,1,Turkish Foreign Ministry,TURKEY,"#D16D79",1,1,2,0.6,0.666667,0,0,0,3,0.002667,3,0,0,0.001996
+British PM,British PM,,1,British PM,UNITED KINGDOM,"#E879A3",1,2,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+TAYSAD Association of Automotive Industry,TAYSAD Association of Automotive Industry,,1,TAYSAD Association of Automotive Industry,TURKEY,"#D16D79",1,1,2,0.6,0.666667,0,0,0,3,0.002667,3,0,0,0.001996
+Ministero del lavoro,Ministero del lavoro,,1,Ministero del lavoro,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+PIGO,PIGO,,1,PIGO,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+SUEZ,SUEZ,,1,SUEZ,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+"‎European Environmental Bureau",‎European Environmental Bureau,,1,‎European Environmental Bureau,EUROPEAN UNION,"#5C9A5C",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+The New European,The New European,,1,The New European,UNITED KINGDOM,"#E879A3",1,1,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+President of Israel,President of Israel,,1,President of Israel,ISRAEL,"#AF587E",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Krajowa Rada Sądownictwa,Krajowa Rada Sądownictwa,,1,Krajowa Rada Sądownictwa,EUROPEAN UNION,"#5C9A5C",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Vice-President of European Commission,Vice-President of European Commission,,1,Vice-President of European Commission,EUROPEAN UNION,"#5C9A5C",3,6,4,0.401887,0.442488,1201.391876,0.016946,0.131332,21,0.004724,0,0,0,0.163659
+Partit Nazzjonalista,Partit Nazzjonalista,,1,Partit Nazzjonalista,MALTA,"#FF8502",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+President of Brazil,President of Brazil,,1,President of Brazil,BRAZIL,"#377EB6",1,2,1,1,1,0,0,0,7,0.003846,6,0,0,0.001304
+Sozialdemokratische Partei Deutschlands,Sozialdemokratische Partei Deutschlands,,1,Sozialdemokratische Partei Deutschlands,GERMANY,"#717F75",2,2,6,0.306034,0.346009,1640,0.005067,0.039267,8,0.003489,0,0,0,0.065993
+Wiosna,Wiosna,,1,Wiosna,POLAND,"#FFE428",1,2,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+minister sprawiedliwości,minister sprawiedliwości,,1,minister sprawiedliwości,POLAND,"#FFE428",2,5,4,0.394444,0.434664,448.574112,0.01665,0.129035,20,0.00327,0,0,0,0.158776
+Polish senator,Polish senator,,1,Polish senator,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+La Repubblica,La Repubblica,,1,La Repubblica,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+European Central Bank,European Central Bank,,1,European Central Bank,EUROPEAN UNION,"#5C9A5C",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Summers Larry,Summers Larry,,1,Summers Larry,UNITED STATES,"#EF7DB1",1,1,8,0.193989,0.210463,0,0.000119,0.000926,2,0.002237,0,0,0,0.003011
+Ministero Esteri IT,Ministero Esteri IT,,1,Ministero Esteri IT,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+EU Commissioner for Agriculture,EU Commissioner for Agriculture,,1,EU Commissioner for Agriculture,EUROPEAN UNION,"#5C9A5C",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Vaticano,Vaticano,,1,Vaticano,ITALY,"#B85D6F",1,1,6,0.225636,0.238889,0,0.000296,0.002297,6,0.002031,0,0,0,0.004884
+Presidente della repubblica,Presidente della repubblica,,1,Presidente della repubblica,ITALY,"#B85D6F",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Kozminski University,Kozminski University,,1,Kozminski University,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Baran Adam,Baran Adam,,1,Baran Adam,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+President of the EU Commission,President of the EU Commission,,1,President of the EU Commission,EUROPEAN UNION,"#5C9A5C",3,11,4,0.395911,0.437793,660.574112,0.016816,0.13032,21,0.004953,0,0,0,0.161185
+Polityka,Polityka,,1,Polityka,POLAND,"#FFE428",1,2,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Do Rzeczy,Do Rzeczy,,1,Do Rzeczy,POLAND,"#FFE428",1,3,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Harari Yuval,Harari Yuval,,1,Harari Yuval,ISRAEL,"#AF587E",1,1,6,0.225636,0.238889,0,0.000296,0.002297,6,0.002031,0,0,0,0.004884
+Gazeta Polska,Gazeta Polska,,1,Gazeta Polska,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Standard & Poor,Standard & Poor,,1,Standard & Poor,UNITED STATES,"#EF7DB1",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+FitchRatings,FitchRatings,,1,FitchRatings,UNITED STATES,"#EF7DB1",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Morgan Stanley,Morgan Stanley,,1,Morgan Stanley,UNITED STATES,"#EF7DB1",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Tokarczuk Olga,Tokarczuk Olga,,1,Tokarczuk Olga,POLAND,"#FFE428",1,1,6,0.225636,0.238889,0,0.000296,0.002297,6,0.002031,0,0,0,0.004884
+Süddeutsche Zeitung,Süddeutsche Zeitung,,1,Süddeutsche Zeitung,GERMANY,"#717F75",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Ifo Institut,Ifo Institut,,1,Ifo Institut,GERMANY,"#717F75",1,1,8,0.192586,0.209239,0,0.000054,0.000416,8,0.002163,0,0,0,0.004347
+ING,ING,,1,ING,NETHERLANDS,"#FFB415",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+German Government,German Government,,1,German Government,GERMANY,"#717F75",1,1,8,0.192586,0.209239,0,0.000054,0.000416,8,0.002163,0,0,0,0.004347
+Ministerstwo Sprawiedliwości,Ministerstwo Sprawiedliwości,,1,Ministerstwo Sprawiedliwości,POLAND,"#FFE428",1,3,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Croatian vox pop,Croatian vox pop,,1,Croatian vox pop,CROATIA,"#419583",1,1,1,1,1,0,0,0,9,0.003846,7,0,0,0.001304
+Gaz-System,Gaz-System,,1,Gaz-System,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Instytut Nauk Prawnych Polskiej Akademii Nauk,Instytut Nauk Prawnych Polskiej Akademii Nauk,,1,Instytut Nauk Prawnych Polskiej Akademii Nauk,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Mock Stanislow,Mock Stanislow,,1,Mock Stanislow,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+El Pais,El Pais,,1,El Pais,SPAIN,"#AF6729",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Malta Chamber of Commerce,Malta Chamber of Commerce,,1,Malta Chamber of Commerce,MALTA,"#FF8502",1,1,1,1,1,0,0,0,10,0.003846,8,0,0,0.001304
+Sveikatos apsaugos ministerija,Sveikatos apsaugos ministerija,,1,Sveikatos apsaugos ministerija,LITHUANIA,"#E77424",1,2,2,0.6,0.666667,0,0,0,11,0.002667,9,0,0,0.001996
+Ministerstwo Rozwoju Regionalnego,Ministerstwo Rozwoju Regionalnego,,1,Ministerstwo Rozwoju Regionalnego,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Dzieciątkowski Tomasz,Dzieciątkowski Tomasz,,1,Dzieciątkowski Tomasz,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Hirsch Rafał,Hirsch Rafał,,1,Hirsch Rafał,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Bundnis 90 - Die Grunen,Bundnis 90 - Die Grunen,,1,Bundnis 90 - Die Grunen,GERMANY,"#717F75",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+European Commission spokesperson,European Commission spokesperson,,1,European Commission spokesperson,EUROPEAN UNION,"#5C9A5C",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Magyarország igazságügy,Magyarország igazságügy,,1,Magyarország igazságügy,HUNGARY,"#7F6D85",2,2,6,0.305158,0.344836,1442,0.005066,0.039263,12,0.0035,0,0,0,0.065596
+LitGrid,LitGrid,,1,LitGrid,LITHUANIA,"#E77424",1,1,2,0.6,0.666667,0,0,0,11,0.002667,9,0,0,0.001996
+Ministerstwo Funduszy,Ministerstwo Funduszy,,1,Ministerstwo Funduszy,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Centre for International Relations,Centre for International Relations,,1,Centre for International Relations,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Ruch Prawdziwa Europa,Ruch Prawdziwa Europa,,1,Ruch Prawdziwa Europa,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Electric Vehicles Promotion Foundation,Electric Vehicles Promotion Foundation,,1,Electric Vehicles Promotion Foundation,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Polska Zielona Siec,Polska Zielona Siec,,1,Polska Zielona Siec,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Sieci,Sieci,,1,Sieci,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+pénzügyminiszter,pénzügyminiszter,,1,pénzügyminiszter,HUNGARY,"#7F6D85",1,1,8,0.191892,0.207674,0,0.000053,0.000411,12,0.002173,0,0,0,0.003951
+Bundesminister des Auswärtigen,Bundesminister des Auswärtigen,,1,Bundesminister des Auswärtigen,GERMANY,"#717F75",1,1,8,0.192586,0.209239,0,0.000054,0.000416,8,0.002163,0,0,0,0.004347
+Die Linke,Die Linke,,1,Die Linke,GERMANY,"#717F75",1,1,8,0.192586,0.209239,0,0.000054,0.000416,8,0.002163,0,0,0,0.004347
+EESC's Employers' Group,EESC's Employers' Group,,1,EESC's Employers' Group,EUROPEAN UNION,"#5C9A5C",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Wajrak Adam,Wajrak Adam,,1,Wajrak Adam,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Polish embassy in Slovenia,Polish embassy in Slovenia,,1,Polish embassy in Slovenia,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Czech PM,Czech PM,,1,Czech PM,CZECH REPUBLIC,"#47A265",1,1,2,0.666667,0.75,0,0,0,18,0.002962,10,0,0,0.001646
+Hołownia Szymon,Hołownia Szymon,,1,Hołownia Szymon,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Several EU Member States,Several EU Member States,,1,Several EU Member States,EUROPEAN UNION,"#5C9A5C",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Fundacja Odpowiedzialna Polityka,Fundacja Odpowiedzialna Polityka,,1,Fundacja Odpowiedzialna Polityka,POLAND,"#FFE428",1,2,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+WHO,WHO,,1,WHO,NA,"#FFA910",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Hungarian Government,Hungarian Government,,1,Hungarian Government,HUNGARY,"#7F6D85",1,2,8,0.191892,0.207674,0,0.000053,0.000411,12,0.002173,0,0,0,0.003951
+Wiadomości TVP,Wiadomości TVP,,1,Wiadomości TVP,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Reporters Sans Frontières ,Reporters Sans Frontières ,,1,Reporters Sans Frontières ,NA,"#FFA910",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Deutsche Welle,Deutsche Welle,,1,Deutsche Welle,GERMANY,"#717F75",1,1,8,0.192586,0.209239,0,0.000054,0.000416,8,0.002163,0,0,0,0.004347
+ADAPT,ADAPT,,1,ADAPT,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+La Stampa,La Stampa,,1,La Stampa,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+Dolnośląska Fundacja Rozwoju ,Dolnośląska Fundacja Rozwoju ,,1,Dolnośląska Fundacja Rozwoju ,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Piątkowski Marcin,Piątkowski Marcin,,1,Piątkowski Marcin,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Auswärtiges Amt,Auswärtiges Amt,,1,Auswärtiges Amt,GERMANY,"#717F75",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Užsienio reikalų ministerija,Užsienio reikalų ministerija,,1,Užsienio reikalų ministerija,LITHUANIA,"#E77424",2,2,6,0.311404,0.353052,247.888889,0.005809,0.045022,15,0.003226,0,0,0,0.074441
+PKN Orlen,PKN Orlen,,1,PKN Orlen,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Financial Times,Financial Times,,1,Financial Times,UNITED KINGDOM,"#E879A3",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Euronews,Euronews,,1,Euronews,FRANCE,"#6A886D",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+ECFR,ECFR,,1,ECFR,UNITED KINGDOM,"#E879A3",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Associated Press,Associated Press,,1,Associated Press,UNITED STATES,"#EF7DB1",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+LSE University,LSE University,,1,LSE University,UNITED KINGDOM,"#E879A3",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Ministerstwo Klimatu,Ministerstwo Klimatu,,1,Ministerstwo Klimatu,POLAND,"#FFE428",2,2,4,0.394444,0.434664,448.574112,0.01665,0.129035,21,0.00327,0,0,0,0.158776
+Magyar Hang,Magyar Hang,,1,Magyar Hang,HUNGARY,"#7F6D85",1,1,8,0.191892,0.207674,0,0.000053,0.000411,12,0.002173,0,0,0,0.003951
+European Federation of Journalists,European Federation of Journalists,,1,European Federation of Journalists,EUROPEAN UNION,"#5C9A5C",1,1,8,0.191892,0.207674,0,0.000053,0.000411,12,0.002173,0,0,0,0.003951
+Human Rights Watch,Human Rights Watch,,1,Human Rights Watch,NA,"#FFA910",1,1,8,0.191892,0.207674,0,0.000053,0.000411,12,0.002173,0,0,0,0.003951
+Patten Chris,Patten Chris,,1,Patten Chris,UNITED KINGDOM,"#E879A3",1,1,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+Polski PEN Club,Polski PEN Club,,1,Polski PEN Club,POLAND,"#FFE428",1,1,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+"Łódź Voivodeship",Łódź Voivodeship,,1,Łódź Voivodeship,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Bundesnetzagentur,Bundesnetzagentur,,1,Bundesnetzagentur,GERMANY,"#717F75",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Goethe-Institut,Goethe-Institut,,1,Goethe-Institut,GERMANY,"#717F75",1,2,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Foreign Affairs magazine,Foreign Affairs magazine,,1,Foreign Affairs magazine,UNITED STATES,"#EF7DB1",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+EU High Representative,EU High Representative,,1,EU High Representative,EUROPEAN UNION,"#5C9A5C",2,4,6,0.311404,0.353052,247.888889,0.005809,0.045022,15,0.003226,0,0,0,0.074441
+Kancelaria Prezesa Rady Ministrów,Kancelaria Prezesa Rady Ministrów,,1,Kancelaria Prezesa Rady Ministrów,POLAND,"#FFE428",2,3,6,0.322727,0.378404,290.827485,0.012433,0.096355,20,0.003266,0,0,0,0.109926
+WWF,WWF,,1,WWF,SWITZERLAND,"#B35D41",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Gauke David,Gauke David,,1,Gauke David,UNITED KINGDOM,"#E879A3",1,1,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+National Bank of Belarus,National Bank of Belarus,,1,National Bank of Belarus,BELARUS,"#745A80",1,1,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+Belarusbank,Belarusbank,,1,Belarusbank,BELARUS,"#745A80",1,1,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+Moody's,Moody's,,1,Moody's,UNITED STATES,"#EF7DB1",1,1,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+Cabinet Office UK,Cabinet Office UK,,1,Cabinet Office UK,UNITED KINGDOM,"#E879A3",1,1,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+Nizieński Bogusław,Nizieński Bogusław,,1,Nizieński Bogusław,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+President of Belarus,President of Belarus,,1,President of Belarus,BELARUS,"#745A80",1,2,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+Institut der deutschen Wirtschaft,Institut der deutschen Wirtschaft,,1,Institut der deutschen Wirtschaft,GERMANY,"#717F75",1,1,8,0.192586,0.209239,0,0.000054,0.000416,8,0.002163,0,0,0,0.004347
+EU Commissioner for Justice,EU Commissioner for Justice,,1,EU Commissioner for Justice,EUROPEAN UNION,"#5C9A5C",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Eurooppaministeri,Eurooppaministeri,,1,Eurooppaministeri,FINLAND,"#639164",1,1,1,1,1,0,0,0,13,0.003846,11,0,0,0.001304
+Ministerstwo Spraw Zagranicznych,Ministerstwo Spraw Zagranicznych,,1,Ministerstwo Spraw Zagranicznych,POLAND,"#FFE428",2,3,6,0.322727,0.378404,290.827485,0.012433,0.096355,15,0.003266,0,0,0,0.109926
+Lietuvos Respublikos Prezidentas,Lietuvos Respublikos Prezidentas,,1,Lietuvos Respublikos Prezidentas,LITHUANIA,"#E77424",1,1,2,0.6,0.666667,0,0,0,11,0.002667,9,0,0,0.001996
+utrikesminister,utrikesminister,,1,utrikesminister,SWEDEN,"#AC5933",1,1,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+Wolne Sądy,Wolne Sądy,,1,Wolne Sądy,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Sąd Rejonowy Poznan,Sąd Rejonowy Poznan,,1,Sąd Rejonowy Poznan,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Iustitia,Iustitia,,1,Iustitia,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Handelsblatt,Handelsblatt,,1,Handelsblatt,GERMANY,"#717F75",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Commerzbank,Commerzbank,,1,Commerzbank,GERMANY,"#717F75",1,2,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Kampania Przeciw Homofobii,Kampania Przeciw Homofobii,,1,Kampania Przeciw Homofobii,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+"#UniteCyprusNow ","#UniteCyprusNow ",,1,"#UniteCyprusNow ",CYPRUS,"#459E6F",1,1,1,1,1,0,0,0,14,0.003846,12,0,0,0.001304
+Litvinchuk Vyacheslav,Litvinchuk Vyacheslav,,1,Litvinchuk Vyacheslav,BELARUS,"#745A80",1,1,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+BYhelp,BYhelp,,1,BYhelp,BELARUS,"#745A80",1,3,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+PandaDoc,PandaDoc,,1,PandaDoc,UNITED STATES,"#EF7DB1",1,1,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+Deepdee,Deepdee,,1,Deepdee,BELARUS,"#745A80",1,1,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+Chinese Government,Chinese Government,,1,Chinese Government,NA,"#FFA910",1,1,6,0.225636,0.238889,0,0.000296,0.002297,6,0.002031,0,0,0,0.004884
+European External Action Service,European External Action Service,,1,European External Action Service,EUROPEAN UNION,"#5C9A5C",1,2,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+European People's Party,European People's Party,,1,European People's Party,EUROPEAN UNION,"#5C9A5C",2,4,4,0.394444,0.434664,448.574112,0.01665,0.129035,21,0.00327,0,0,0,0.158776
+EU Commissioner for Health,EU Commissioner for Health,,1,EU Commissioner for Health,EUROPEAN UNION,"#5C9A5C",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Reuters,Reuters,,1,Reuters,UNITED KINGDOM,"#E879A3",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+PWEA,PWEA,,1,PWEA,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Ministry of Foreign Affairs of Russia,Ministry of Foreign Affairs of Russia,,1,Ministry of Foreign Affairs of Russia,RUSSIAN FEDERATION,"#E8D430",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Foreign Ministry of Belarus,Foreign Ministry of Belarus,,1,Foreign Ministry of Belarus,BELARUS,"#745A80",1,1,6,0.246528,0.26385,0,0.000796,0.006171,15,0.001899,0,0,0,0.012796
+British-Polish Chamber of Commerce,British-Polish Chamber of Commerce,,1,British-Polish Chamber of Commerce,UNITED KINGDOM,"#E879A3",1,1,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+Gaweł Rafał,Gaweł Rafał,,1,Gaweł Rafał,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Netherlands,Netherlands,,1,Netherlands,NETHERLANDS,"#FFB415",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Centre for Liberal Strategies,Centre for Liberal Strategies,,1,Centre for Liberal Strategies,BULGARIA,"#3983AC",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+L'Istituto Affari Internazionali ,L'Istituto Affari Internazionali ,,1,L'Istituto Affari Internazionali ,ITALY,"#B85D6F",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+European Council on Foreign Relations,European Council on Foreign Relations,,1,European Council on Foreign Relations,UNITED KINGDOM,"#E879A3",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Stanford University,Stanford University,,1,Stanford University,UNITED STATES,"#EF7DB1",1,1,8,0.193989,0.210463,0,0.000119,0.000926,2,0.002237,0,0,0,0.003011
+Carnegie,Carnegie,,1,Carnegie,UNITED STATES,"#EF7DB1",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Clingendael Institute,Clingendael Institute,,1,Clingendael Institute,NETHERLANDS,"#FFB415",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Naval'nyj Aleksej,Naval'nyj Aleksej,,1,Naval'nyj Aleksej,RUSSIAN FEDERATION,"#E8D430",1,1,1,1,1,0,0,0,16,0.003846,13,0,0,0.001304
+vox,vox,,1,vox,SPAIN,"#AF6729",1,1,6,0.239326,0.248592,0,0.000184,0.001423,17,0.002128,0,0,0,0.003792
+Partido Popular,Partido Popular,,1,Partido Popular,SPAIN,"#AF6729",1,1,6,0.239326,0.248592,0,0.000184,0.001423,17,0.002128,0,0,0,0.003792
+Spanish Government,Spanish Government,,1,Spanish Government,SPAIN,"#AF6729",1,1,6,0.239326,0.248592,0,0.000184,0.001423,17,0.002128,0,0,0,0.003792
+Polish MEPs,Polish MEPs,,1,Polish MEPs,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Koalicja Obywatelska,Koalicja Obywatelska,,1,Koalicja Obywatelska,POLAND,"#FFE428",1,2,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Robert Koch Institut,Robert Koch Institut,,1,Robert Koch Institut,GERMANY,"#717F75",1,1,8,0.192586,0.209239,0,0.000054,0.000416,8,0.002163,0,0,0,0.004347
+ECDC ,ECDC ,,1,ECDC ,EUROPEAN UNION,"#5C9A5C",1,1,2,0.666667,0.75,0,0,0,18,0.002962,10,0,0,0.001646
+Slovak PM,Slovak PM,,1,Slovak PM,SLOVAKIA,"#C7962C",1,1,1,1,1,0,0,0,19,0.003846,14,0,0,0.001304
+Die Welt,Die Welt,,1,Die Welt,GERMANY,"#717F75",1,2,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Warsaw University,Warsaw University,,1,Warsaw University,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Aborcyjny Dream Team,Aborcyjny Dream Team,,1,Aborcyjny Dream Team,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Der Spiegel,Der Spiegel,,1,Der Spiegel,GERMANY,"#717F75",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Ministère des Santé,Ministère des Santé,,1,Ministère des Santé,FRANCE,"#6A886D",1,1,8,0.18984,0.202979,0,0.000051,0.000399,0,0.002227,0,0,0,0.002815
+US Democratic Party,US Democratic Party,,1,US Democratic Party,UNITED STATES,"#EF7DB1",1,1,8,0.193989,0.210463,0,0.000119,0.000926,2,0.002237,0,0,0,0.003011
+Coldiretti,Coldiretti,,1,Coldiretti,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+Comune di Carolei,Comune di Carolei,,1,Comune di Carolei,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+Presidente della Lombardia,Presidente della Lombardia,,1,Presidente della Lombardia,ITALY,"#B85D6F",1,1,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+Ministero della Salute,Ministero della Salute,,1,Ministero della Salute,ITALY,"#B85D6F",1,2,2,0.52381,0.545455,0,0,0,23,0.002239,2,0,0,0.005122
+Magyarország külügyminisztere,Magyarország külügyminisztere,,1,Magyarország külügyminisztere,HUNGARY,"#7F6D85",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Demokratikus Koalicio,Demokratikus Koalicio,,1,Demokratikus Koalicio,HUNGARY,"#7F6D85",1,1,8,0.191892,0.207674,0,0.000053,0.000411,12,0.002173,0,0,0,0.003951
+Góralczyk Bogdan,Góralczyk Bogdan,,1,Góralczyk Bogdan,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Ministerstwo Skarbu Państwa,Ministerstwo Skarbu Państwa,,1,Ministerstwo Skarbu Państwa,POLAND,"#FFE428",1,2,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Ministerstwo Nauk,Ministerstwo Nauk,,1,Ministerstwo Nauk,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Warsaw School of Economics,Warsaw School of Economics,,1,Warsaw School of Economics,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Koalicja Sojuszu Lewicy Demokratycznej i Unii Pracy,Koalicja Sojuszu Lewicy Demokratycznej i Unii Pracy,,1,Koalicja Sojuszu Lewicy Demokratycznej i Unii Pracy,POLAND,"#FFE428",2,2,4,0.394444,0.434664,448.574112,0.01665,0.129035,21,0.00327,0,0,0,0.158776
+Huasner Jerzy,Huasner Jerzy,,1,Huasner Jerzy,POLAND,"#FFE428",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Solidarność,Solidarność,,1,Solidarność,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Kwaśniewski Aleksander,Kwaśniewski Aleksander,,1,Kwaśniewski Aleksander,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Rada Ministrów Rzeczypospolitej,Rada Ministrów Rzeczypospolitej,,1,Rada Ministrów Rzeczypospolitej,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+OKO.press,OKO.press,,1,OKO.press,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+RMF FM,RMF FM,,1,RMF FM,POLAND,"#FFE428",1,2,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Partija Vienotiba,Partija Vienotiba,,1,Partija Vienotiba,LATVIA,"#D46B42",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Polskie Stronnictwo Ludowe,Polskie Stronnictwo Ludowe,,1,Polskie Stronnictwo Ludowe,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Rzeczpospolita,Rzeczpospolita,,1,Rzeczpospolita,POLAND,"#FFE428",1,1,2,0.571429,0.625,0,0,0,22,0.00252,1,0,0,0.002355
+Straż Graniczna,Straż Graniczna,,1,Straż Graniczna,POLAND,"#FFE428",1,1,2,0.571429,0.625,0,0,0,22,0.00252,1,0,0,0.002355
+Nowak Piotr,Nowak Piotr,,1,Nowak Piotr,SWEDEN,"#AC5933",1,1,6,0.239865,0.249765,0,0.000186,0.001438,24,0.002121,0,0,0,0.00416
+Tegnell Anders,Tegnell Anders,,1,Tegnell Anders,SWEDEN,"#AC5933",1,1,6,0.239865,0.249765,0,0.000186,0.001438,24,0.002121,0,0,0,0.00416
+Calmfors Lars,Calmfors Lars,,1,Calmfors Lars,SWEDEN,"#AC5933",1,1,6,0.239865,0.249765,0,0.000186,0.001438,24,0.002121,0,0,0,0.00416
+Stockholms läns sjukvårdsområde,Stockholms läns sjukvårdsområde,,1,Stockholms läns sjukvårdsområde,SWEDEN,"#AC5933",1,1,6,0.239865,0.249765,0,0.000186,0.001438,24,0.002121,0,0,0,0.00416
+Home Office,Home Office,,1,Home Office,UNITED KINGDOM,"#E879A3",1,1,6,0.244828,0.260329,0,0.000261,0.002023,1,0.002042,0,0,0,0.008367
+Ministère de l'Europe,Ministère de l'Europe,,1,Ministère de l'Europe,FRANCE,"#6A886D",1,1,8,0.18984,0.202979,0,0.000051,0.000399,0,0.002227,0,0,0,0.002815
+Ministère des Affaires étrangères FR,Ministère des Affaires étrangères FR,,1,Ministère des Affaires étrangères FR,FRANCE,"#6A886D",1,1,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Ministerstwo Infrastruktury,Ministerstwo Infrastruktury,,1,Ministerstwo Infrastruktury,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+European Medicines Agency,European Medicines Agency,,1,European Medicines Agency,EUROPEAN UNION,"#5C9A5C",1,2,6,0.299157,0.334664,0,0.005013,0.038851,21,0.001903,0,0,0,0.061645
+Rządowej Agencji Rezerw Strategicznych,Rządowej Agencji Rezerw Strategicznych,,1,Rządowej Agencji Rezerw Strategicznych,POLAND,"#FFE428",1,2,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+Federa,Federa,,1,Federa,POLAND,"#FFE428",1,1,6,0.309593,0.360016,0,0.011637,0.090184,20,0.001944,0,0,0,0.09713
+poland constituency,poland constituency,,2,constituency/group,POLAND,"#FFE428",95,191,5,0.447479,0.625743,14745.126681,0.908285,0.117199,20,0.152907,0,0,0,1
+france constituency,france constituency,,2,constituency/group,FRANCE,"#6A886D",4,6,7,0.234066,0.259524,633,0.004016,0.000518,0,0.007771,0,0,0,0.01168
+european union constituency,EU constituency,,2,constituency/group,EUROPEAN UNION,"#5C9A5C",68,95,5,0.426,0.551721,13063.660892,0.39129,0.050489,21,0.106207,0,0,0,0.591552
+united kingdom constituency,united kingdom constituency,,2,constituency/group,UNITED KINGDOM,"#E879A3",14,19,5,0.323708,0.364319,2491.195833,0.020379,0.00263,1,0.024151,0,0,0,0.051942
+united states constituency,united states constituency,,2,constituency/group,UNITED STATES,"#EF7DB1",4,7,7,0.240406,0.272155,633,0.009322,0.001203,2,0.007818,0,0,0,0.01454
+ukraine constituency,ukraine constituency,,2,constituency/group,UKRAINE,"#E07595",4,4,1,1,1,6,0,0,22,0.00915,1,0,0,0.005783
+regional / global constituency,regional / global constituency,,2,constituency/group,REGIONAL / GLOBAL,"#FFFB31",6,6,5,0.290984,0.319484,847.401096,0.023135,0.002985,6,0.010272,0,0,0,0.032896
+italy constituency,italy constituency,,2,constituency/group,ITALY,"#B85D6F",11,12,1,1,1,55,0,0,23,0.021526,2,0,0,0.019766
+turkey constituency,turkey constituency,,2,constituency/group,TURKEY,"#D16D79",3,5,1,1,1,3,0,0,3,0.007382,3,0,0,0.004194
+armenia constituency,armenia constituency,,2,constituency/group,ARMENIA,"#B43547",1,1,1,1,1,0,0,0,4,0.003846,4,0,0,0.001304
+scotland constituency,scotland constituency,,2,constituency/group,SCOTLAND,"#D8B52E",1,1,1,1,1,0,0,0,5,0.003846,5,0,0,0.001304
+brazil constituency,brazil constituency,,2,constituency/group,BRAZIL,"#377EB6",1,2,1,1,1,0,0,0,7,0.003846,6,0,0,0.001304
+germany constituency,germany constituency,,2,constituency/group,GERMANY,"#717F75",8,8,7,0.238255,0.274547,1463,0.004188,0.00054,8,0.01494,0,0,0,0.01916
+croatia constituency,croatia constituency,,2,constituency/group,CROATIA,"#419583",1,1,1,1,1,0,0,0,9,0.003846,7,0,0,0.001304
+malta constituency,malta constituency,,2,constituency/group,MALTA,"#FF8502",1,1,1,1,1,0,0,0,10,0.003846,8,0,0,0.001304
+lithuania constituency,lithuania constituency,,2,constituency/group,LITHUANIA,"#E77424",3,4,1,1,1,3,0,0,11,0.007382,9,0,0,0.004194
+hungary constituency,hungary constituency,,2,constituency/group,HUNGARY,"#7F6D85",7,8,7,0.237194,0.270791,1257,0.004144,0.000535,12,0.013157,0,0,0,0.017135
+czech republic constituency,czech republic constituency,,2,constituency/group,CZECH REPUBLIC,"#47A265",2,2,1,1,1,1,0,0,18,0.005614,10,0,0,0.002702
+belarus constituency,belarus constituency,,2,constituency/group,BELARUS,"#745A80",17,23,5,0.326687,0.373709,2401.615497,0.062149,0.008019,15,0.026473,0,0,0,0.101176
+ireland constituency,ireland constituency,,2,constituency/group,IRELAND,"#A5548D",1,2,5,0.284,0.30133,0,0.01294,0.00167,21,0.001982,0,0,0,0.015747
+finland constituency,finland constituency,,2,constituency/group,FINLAND,"#639164",1,1,1,1,1,0,0,0,13,0.003846,11,0,0,0.001304
+cyprus constituency,cyprus constituency,,2,constituency/group,CYPRUS,"#459E6F",1,1,1,1,1,0,0,0,14,0.003846,12,0,0,0.001304
+spain constituency,spain constituency,,2,constituency/group,SPAIN,"#AF6729",4,4,5,0.314159,0.33302,633,0.014334,0.00185,17,0.007305,0,0,0,0.023726
+russia constituency,russia constituency,,2,constituency/group,RUSSIA,"#F0E431",1,1,1,1,1,0,0,0,16,0.003846,13,0,0,0.001304
+slovakia constituency,slovakia constituency,,2,constituency/group,SLOVAKIA,"#C7962C",1,1,1,1,1,0,0,0,19,0.003846,14,0,0,0.001304
+sweden constituency,sweden constituency,,2,constituency/group,SWEDEN,"#AC5933",5,5,5,0.315089,0.33615,842,0.014481,0.001868,24,0.009093,0,0,0,0.02546

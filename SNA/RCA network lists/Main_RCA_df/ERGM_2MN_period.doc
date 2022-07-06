@@ -1,0 +1,44 @@
+
+=====================================================================================
+                                                           pre-Covid     during Covid
+-------------------------------------------------------------------------------------
+mix.org_scope.EU Supranational.EU Supranational               -7.15 ***     -7.14 ***
+                                                              (1.00)        (1.00)   
+mix.org_scope.Global / Regional.EU Supranational              -5.62 ***     -6.36 ***
+                                                              (0.45)        (0.71)   
+mix.org_scope.Other EU Member State.EU Supranational          -5.49 ***     -6.26 ***
+                                                              (0.26)        (0.35)   
+mix.org_scope.Own Country, National.EU Supranational          -6.64 ***     -6.51 ***
+                                                              (0.33)        (0.33)   
+mix.org_scope.EU Supranational.Global / Regional              -6.81 ***     -5.84 ***
+                                                              (0.71)        (0.71)   
+mix.org_scope.Global / Regional.Global / Regional             -6.49 ***      -Inf    
+                                                              (0.58)                 
+mix.org_scope.Other EU Member State.Global / Regional         -5.42 ***     -5.78 ***
+                                                              (0.21)        (0.38)   
+mix.org_scope.Own Country, National.Global / Regional         -6.20 ***     -6.71 ***
+                                                              (0.22)        (0.50)   
+mix.org_scope.EU Supranational.Other EU Member State          -6.45 ***     -5.30 ***
+                                                              (0.58)        (0.24)   
+mix.org_scope.Global / Regional.Other EU Member State         -5.83 ***     -6.25 ***
+                                                              (0.41)        (0.41)   
+mix.org_scope.Other EU Member State.Other EU Member State     -5.77 ***     -5.40 ***
+                                                              (0.24)        (0.14)   
+mix.org_scope.Own Country, National.Other EU Member State     -5.80 ***     -6.04 ***
+                                                              (0.18)        (0.16)   
+mix.org_scope.EU Supranational.Own Country, National          -6.14 ***     -6.47 ***
+                                                              (0.45)        (0.45)   
+mix.org_scope.Global / Regional.Own Country, National         -5.88 ***     -6.19 ***
+                                                              (0.38)        (0.41)   
+mix.org_scope.Other EU Member State.Own Country, National     -5.67 ***     -5.84 ***
+                                                              (0.21)        (0.18)   
+mix.org_scope.Own Country, National.Own Country, National     -6.22 ***     -6.00 ***
+                                                              (0.20)        (0.16)   
+edges                                                                                
+                                                                                     
+-------------------------------------------------------------------------------------
+AIC                                                         2723.09       4006.93    
+BIC                                                         2880.13       4156.73    
+Log Likelihood                                             -1344.54      -1987.47    
+=====================================================================================
+*** p < 0.001; ** p < 0.01; * p < 0.05

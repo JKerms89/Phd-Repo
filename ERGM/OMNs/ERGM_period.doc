@@ -1,0 +1,32 @@
+
+==============================================================
+                                    pre-Covid     during Covid
+--------------------------------------------------------------
+nodematch.act_nat.EUROPEAN UNION        1.47 ***      1.76 ***
+                                       (0.15)        (0.16)   
+nodematch.act_nat.GERMANY               1.06 ***      1.33 ***
+                                       (0.17)        (0.18)   
+nodematch.act_nat.ITALY                 1.59 ***      2.49 ***
+                                       (0.14)        (0.16)   
+nodematch.act_nat.NETHERLANDS           1.52 ***      2.45 ***
+                                       (0.21)        (0.17)   
+nodematch.act_nat.POLAND                2.61 ***      2.00 ***
+                                       (0.20)        (0.14)   
+nodeofactor.act_nat.EUROPEAN UNION      0.40 ***      0.42 ***
+                                       (0.11)        (0.11)   
+nodeofactor.act_nat.GERMANY             0.58 ***      0.58 ***
+                                       (0.10)        (0.11)   
+nodeofactor.act_nat.ITALY               0.14         -0.26    
+                                       (0.11)        (0.14)   
+nodeofactor.act_nat.NETHERLANDS         0.32 *        0.00    
+                                       (0.13)        (0.13)   
+nodeofactor.act_nat.POLAND             -0.33 *       -0.05    
+                                       (0.16)        (0.12)   
+edges                                  -6.55 ***     -6.92 ***
+                                       (0.06)        (0.05)   
+--------------------------------------------------------------
+AIC                                 14975.05      16884.61    
+BIC                                 15097.33      17011.77    
+Log Likelihood                      -7476.52      -8431.31    
+==============================================================
+*** p < 0.001; ** p < 0.01; * p < 0.05

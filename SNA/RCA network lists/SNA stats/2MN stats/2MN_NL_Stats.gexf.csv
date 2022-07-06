@@ -1,0 +1,171 @@
+Id,Label,timeset,mode,act_type,nat,colour,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,pageranks,componentnumber,clustering,triangles,eigencentrality
+French vox pop,French vox pop,,1,the general public,FRANCE,"#6A886D",1,2,8,0.224863,0.243709,0,0.000797,0.004875,0,0.003106,0,0,0,0.008504
+Kings College London University,Kings College London University,,1,educational professionals and organisations,UNITED KINGDOM,"#E879A3",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+NRC Handelsblad,NRC Handelsblad,,1,media and journalists,NETHERLANDS,"#FFB415",2,15,6,0.38558,0.435908,231.490909,0.025573,0.156429,14,0.005064,0,0,0,0.185308
+Stevens Barry,Stevens Barry,,1,media and journalists,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Dutch PM,Dutch PM,,1,government/executive,NETHERLANDS,"#FFB415",3,5,6,0.395498,0.447425,538.848485,0.02637,0.161304,19,0.007288,0,0,0,0.193812
+VisNed,VisNed,,1,farmers and agricultural organisations,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+InnoEnergy,InnoEnergy,,1,employers organisations and firms,NETHERLANDS,"#FFB415",1,2,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Clingendael Institute,Clingendael Institute,,1,other scientific and research professionals and institutions,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+French Government,French Government,,1,government/executive,FRANCE,"#6A886D",1,1,8,0.224863,0.243709,0,0.000797,0.004875,0,0.003106,0,0,0,0.008504
+Federatie Nederlandse Vakbeweging,Federatie Nederlandse Vakbeweging,,1,unions and employees,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+De Sociaal-Economische Raad,De Sociaal-Economische Raad,,1,other state executive agencies,NETHERLANDS,"#FFB415",1,2,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Dutch vox pop,Dutch vox pop,,1,the general public,NETHERLANDS,"#FFB415",2,11,6,0.38558,0.435908,231.490909,0.025573,0.156429,19,0.005064,0,0,0,0.185308
+Fisherman,Fisherman,,1,the general public,NA,"#FFA910",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Dutch Government ministers,Dutch Government ministers,,1,government/executive,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Government of the Netherlands,Government of the Netherlands,,1,government/executive,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Hanseatic League,Hanseatic League,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Ministerie van Financiën,Ministerie van Financiën,,1,government/executive,NETHERLANDS,"#FFB415",3,5,6,0.388013,0.441328,353.490909,0.025994,0.159007,19,0.007659,0,0,0,0.189471
+Bijkerk Rein,Bijkerk Rein,,1,media and journalists,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Democraten 66,Democraten 66,,1,political parties,NETHERLANDS,"#FFB415",1,2,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+CIIS,CIIS,,1,other state executive agencies,CHINA,"#3F908E",1,1,2,0.666667,0.75,0,0,0,15,0.00453,1,0,0,0.002524
+Ministerie van Buitenlandse Zaken,Ministerie van Buitenlandse Zaken,,1,government/executive,NETHERLANDS,"#FFB415",2,3,6,0.38558,0.435908,231.490909,0.025573,0.156429,19,0.005064,0,0,0,0.185308
+Polish vox pop,Polish vox pop,,1,the general public,POLAND,"#FFE428",1,1,8,0.168263,0.186227,0,0.000016,0.000096,4,0.003395,0,0,0,0.004974
+Solidarność,Solidarność,,1,political parties,POLAND,"#FFE428",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Mayor of Gdańsk,Mayor of Gdańsk,,1,government/executive,POLAND,"#FFE428",1,1,8,0.168263,0.186227,0,0.000016,0.000096,4,0.003395,0,0,0,0.004974
+De Telegraaf,De Telegraaf,,1,media and journalists,NETHERLANDS,"#FFB415",3,10,6,0.390476,0.44336,473.490909,0.026001,0.15905,19,0.007579,0,0,0,0.190137
+Dvorani Ardian,Dvorani Ardian,,1,judiciary,ALBANIA,"#D4232A",1,1,2,0.666667,0.75,0,0,0,1,0.00453,2,0,0,0.002524
+Instituti i Studimeve Politike ,Instituti i Studimeve Politike ,,1,other scientific and research professionals and institutions,ALBANIA,"#D4232A",1,1,2,0.666667,0.75,0,0,0,1,0.00453,2,0,0,0.002524
+Wageningen University,Wageningen University,,1,educational professionals and organisations,NETHERLANDS,"#FFB415",2,2,4,0.356522,0.403117,535.224242,0.020494,0.12536,4,0.005132,0,0,0,0.138939
+EU Council,EU Council,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Mayor of Noordwijk,Mayor of Noordwijk,,1,government/executive,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+French Embassy in Netherlands,French Embassy in Netherlands,,1,government/executive,FRANCE,"#6A886D",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+European Space Agency,European Space Agency,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Dorren Gaston,Dorren Gaston,,1,media and journalists,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+British PM,British PM,,1,government/executive,UNITED KINGDOM,"#E879A3",1,4,2,0.538462,0.571429,0,0,0,2,0.003565,3,0,0,0.006248
+European Commission,European Commission,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,2,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+IGBCE,IGBCE,,1,unions and employees,GERMANY,"#717F75",1,1,8,0.204659,0.22501,0,0.000346,0.002115,16,0.003385,0,0,0,0.006155
+German Government,German Government,,1,government/executive,GERMANY,"#717F75",2,2,6,0.336986,0.38916,590,0.019948,0.122021,16,0.005487,0,0,0,0.131088
+Planbureau voor de Leefomgeving,Planbureau voor de Leefomgeving,,1,other state executive agencies,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+EU Commissioner for Promoting the European Way of Life,EU Commissioner for Promoting the European Way of Life,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+GroenLinks,GroenLinks,,1,legislative,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+ICT,ICT,,1,solidarity and human rights organisations,NA,"#FFA910",1,1,1,1,1,0,0,0,3,0.005882,4,0,0,0.001872
+Prawo i Sprawiedliwosc,Prawo i Sprawiedliwosc,,1,political parties,POLAND,"#FFE428",1,2,8,0.168263,0.186227,0,0.000016,0.000096,4,0.003395,0,0,0,0.004974
+President of the EU Commission,President of the EU Commission,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,4,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Tokarczuk Olga,Tokarczuk Olga,,1,media and journalists,POLAND,"#FFE428",1,1,8,0.168263,0.186227,0,0.000016,0.000096,4,0.003395,0,0,0,0.004974
+Partij van de Arbeid,Partij van de Arbeid,,1,political parties,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+RIVM,RIVM,,1,other scientific and research professionals and institutions,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Christen-Democratisch Appel,Christen-Democratisch Appel,,1,political parties,NETHERLANDS,"#FFB415",2,4,6,0.38558,0.435908,231.490909,0.025573,0.156429,19,0.005064,0,0,0,0.185308
+EU Commissioner for Climate Action,EU Commissioner for Climate Action,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+En Marche,En Marche,,1,political parties,FRANCE,"#6A886D",1,1,6,0.243564,0.264905,0,0.000892,0.005453,4,0.003031,0,0,0,0.014005
+Bové José,Bové José,,1,former states(wo)men,FRANCE,"#6A886D",1,1,8,0.224863,0.243709,0,0.000797,0.004875,0,0.003106,0,0,0,0.008504
+EU Commissioner for Competition,EU Commissioner for Competition,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Ministerie van Economische Zaken,Ministerie van Economische Zaken,,1,government/executive,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+University of Amsterdam,University of Amsterdam,,1,educational professionals and organisations,NETHERLANDS,"#FFB415",1,2,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+ECCHR,ECCHR,,1,solidarity and human rights organisations,NA,"#FFA910",1,1,6,0.243564,0.264905,0,0.000892,0.005453,4,0.003031,0,0,0,0.014005
+EU High Representative,EU High Representative,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,2,0.666667,0.75,0,0,0,17,0.00453,5,0,0,0.002524
+President of Turkey,President of Turkey,,1,government/executive,TURKEY,"#D16D79",1,1,1,1,1,0,0,0,5,0.005882,6,0,0,0.001872
+ECB President,ECB President,,1,central banks,EUROPEAN UNION,"#5C9A5C",1,2,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Ministerie van Volksgezondheid,Ministerie van Volksgezondheid,,1,government/executive,NETHERLANDS,"#FFB415",2,2,6,0.292162,0.345393,446.533333,0.006862,0.041976,4,0.005111,0,0,0,0.07438
+Dansk Folkeparti,Dansk Folkeparti,,1,political parties,DENMARK,"#49A75B",1,2,2,0.666667,0.75,0,0,0,6,0.00453,7,0,0,0.002524
+Socialdemokraterne,Socialdemokraterne,,1,political parties,DENMARK,"#49A75B",1,2,2,0.666667,0.75,0,0,0,6,0.00453,7,0,0,0.002524
+Amsterdam Court of Appeal,Amsterdam Court of Appeal,,1,judiciary,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Brexit Party,Brexit Party,,1,political parties,UNITED KINGDOM,"#E879A3",1,1,2,0.538462,0.571429,0,0,0,2,0.003565,3,0,0,0.006248
+UK Labour Party,UK Labour Party,,1,legislative,UNITED KINGDOM,"#E879A3",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Islington Council,Islington Council,,1,government/executive,UNITED KINGDOM,"#E879A3",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+House of Lords,House of Lords,,1,legislative,UNITED KINGDOM,"#E879A3",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+UK Government spokesperson,UK Government spokesperson,,1,government/executive,UNITED KINGDOM,"#E879A3",1,1,2,0.538462,0.571429,0,0,0,2,0.003565,3,0,0,0.006248
+UK Brexit Minister,UK Brexit Minister,,1,government/executive,UNITED KINGDOM,"#E879A3",1,1,2,0.538462,0.571429,0,0,0,2,0.003565,3,0,0,0.006248
+Copa-Cogeca,Copa-Cogeca,,1,employers organisations and firms,BELGIUM,"#64638E",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Council of Canadians,Council of Canadians,,1,environmental organisations and groups,CANADA,"#3D8C98",1,1,6,0.243564,0.264905,0,0.000892,0.005453,4,0.003031,0,0,0,0.014005
+Volkspartij voor Vrijheid en Democratie,Volkspartij voor Vrijheid en Democratie,,1,political parties,NETHERLANDS,"#FFB415",2,6,6,0.38558,0.435908,231.490909,0.025573,0.156429,19,0.005064,0,0,0,0.185308
+Carbon Disclosure Project,Carbon Disclosure Project,,1,environmental organisations and groups,UNITED KINGDOM,"#E879A3",1,1,6,0.243564,0.264905,0,0.000892,0.005453,4,0.003031,0,0,0,0.014005
+Syria Relief & Development,Syria Relief & Development,,1,solidarity and human rights organisations,UNITED KINGDOM,"#E879A3",1,1,1,1,1,0,0,0,7,0.005882,8,0,0,0.001872
+US President,US President,,1,government/executive,UNITED STATES,"#EF7DB1",1,1,1,1,1,0,0,0,8,0.005882,9,0,0,0.001872
+Turkish Government,Turkish Government,,1,government/executive,TURKEY,"#D16D79",1,1,1,1,1,0,0,0,9,0.005882,10,0,0,0.001872
+JA21,JA21,,1,political parties,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Partij voor de Vrijheid,Partij voor de Vrijheid,,1,political parties,NETHERLANDS,"#FFB415",1,3,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Germany,Germany,,1,whole polities,GERMANY,"#717F75",1,1,8,0.211704,0.23856,0,0.000379,0.00232,18,0.003294,0,0,0,0.010414
+Cuban doctors,Cuban doctors,,1,other scientific and research professionals and institutions,CUBA,"#439979",1,1,8,0.211704,0.23856,0,0.000379,0.00232,18,0.003294,0,0,0,0.010414
+German hospitals,German hospitals,,1,other state executive agencies,GERMANY,"#717F75",1,1,8,0.211704,0.23856,0,0.000379,0.00232,18,0.003294,0,0,0,0.010414
+Austrian hospitals,Austrian hospitals,,1,other state executive agencies,AUSTRIA,"#944863",1,1,8,0.211704,0.23856,0,0.000379,0.00232,18,0.003294,0,0,0,0.010414
+La Repubblica,La Repubblica,,1,media and journalists,ITALY,"#B85D6F",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Presidente del Consiglio,Presidente del Consiglio,,1,government/executive,ITALY,"#B85D6F",2,3,6,0.346479,0.399322,1130,0.019981,0.122226,18,0.005395,0,0,0,0.135347
+Lega Nord,Lega Nord,,1,political parties,ITALY,"#B85D6F",1,2,8,0.211704,0.23856,0,0.000379,0.00232,18,0.003294,0,0,0,0.010414
+Monti Mario,Monti Mario,,1,former states(wo)men,ITALY,"#B85D6F",1,1,8,0.211704,0.23856,0,0.000379,0.00232,18,0.003294,0,0,0,0.010414
+Eurogroup,Eurogroup,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Financial Times,Financial Times,,1,media and journalists,UNITED KINGDOM,"#E879A3",2,2,4,0.356522,0.403117,535.224242,0.020494,0.12536,4,0.005132,0,0,0,0.138939
+Presidente del Gobierno,Presidente del Gobierno,,1,government/executive,SPAIN,"#AF6729",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+OHV,OHV,,1,economists and financial experts,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Wellink Nout,Wellink Nout,,1,former states(wo)men,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+German Marshall Fund in Europe,German Marshall Fund in Europe,,1,other scientific and research professionals and institutions,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Swedish vox pop,Swedish vox pop,,1,the general public,SWEDEN,"#AC5933",1,2,2,0.666667,0.75,0,0,0,10,0.00453,11,0,0,0.002524
+Folkhälsomyndigheten,Folkhälsomyndigheten,,1,other state executive agencies,SWEDEN,"#AC5933",1,1,2,0.666667,0.75,0,0,0,10,0.00453,11,0,0,0.002524
+Ukrainian PM,Ukrainian PM,,1,government/executive,UKRAINE,"#E07595",1,1,1,1,1,0,0,0,11,0.005882,12,0,0,0.001872
+Bundestagspräsident,Bundestagspräsident,,1,legislative,GERMANY,"#717F75",1,1,8,0.204659,0.22501,0,0.000346,0.002115,16,0.003385,0,0,0,0.006155
+Dutch MPs,Dutch MPs,,1,legislative,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Swiss MP,Swiss MP,,1,legislative,SWITZERLAND,"#B35D41",1,1,1,1,1,0,0,0,12,0.005882,13,0,0,0.001872
+GlobalData,GlobalData,,1,employers organisations and firms,UNITED KINGDOM,"#E879A3",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+NAG,NAG,,1,employers organisations and firms,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Badr Organisation,Badr Organisation,,1,political parties,IRAQ,"#9C4F9C",1,1,1,1,1,0,0,0,13,0.005882,14,0,0,0.001872
+Raad voor de leefomgeving,Raad voor de leefomgeving,,1,other scientific and research professionals and institutions,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Rabobank,Rabobank,,1,economists and financial experts,NETHERLANDS,"#FFB415",1,1,8,0.211704,0.23856,0,0.000379,0.00232,18,0.003294,0,0,0,0.010414
+The Broker,The Broker,,1,other scientific and research professionals and institutions,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+EU Commissioner for Trade,EU Commissioner for Trade,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Hague Centre for Strategic Studies,Hague Centre for Strategic Studies,,1,other scientific and research professionals and institutions,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+EFMI Business School,EFMI Business School,,1,educational professionals and organisations,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+ChristenUnie - Staatskundig Gereformeerde Partij,ChristenUnie - Staatskundig Gereformeerde Partij,,1,political parties,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Forum voor Democratie,Forum voor Democratie,,1,political parties,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Fratelli d'Italia,Fratelli d'Italia,,1,political parties,ITALY,"#B85D6F",1,1,8,0.211704,0.23856,0,0.000379,0.00232,18,0.003294,0,0,0,0.010414
+Bovenkerk Frank,Bovenkerk Frank,,1,educational professionals and organisations,NETHERLANDS,"#FFB415",1,1,6,0.243564,0.264905,0,0.000892,0.005453,4,0.003031,0,0,0,0.014005
+Kennisplatform Integratie & Samenleving,Kennisplatform Integratie & Samenleving,,1,other scientific and research professionals and institutions,NETHERLANDS,"#FFB415",1,1,6,0.243564,0.264905,0,0.000892,0.005453,4,0.003031,0,0,0,0.014005
+German protestors,German protestors,,1,the general public,GERMANY,"#717F75",1,1,8,0.204659,0.22501,0,0.000346,0.002115,16,0.003385,0,0,0,0.006155
+Tikhanovskaya Sviatlana,Tikhanovskaya Sviatlana,,1,politicians,BELARUS,"#745A80",1,1,2,0.6,0.666667,0,0,0,20,0.00408,15,0,0,0.003206
+President of Belarus,President of Belarus,,1,government/executive,BELARUS,"#745A80",1,2,2,0.6,0.666667,0,0,0,20,0.00408,15,0,0,0.003206
+NATO,NATO,,1,military,NA,"#FFA910",1,1,2,0.6,0.666667,0,0,0,20,0.00408,15,0,0,0.003206
+Užsienio reikalų ministerija,Užsienio reikalų ministerija,,1,government/executive,LITHUANIA,"#E77424",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Auswärtiger Ausschuss - Deutscher Bundestag,Auswärtiger Ausschuss - Deutscher Bundestag,,1,legislative,GERMANY,"#717F75",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+De Nederlandsche Bank,De Nederlandsche Bank,,1,central banks,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+University of Groningen,University of Groningen,,1,educational professionals and organisations,NETHERLANDS,"#FFB415",2,2,6,0.248485,0.278455,590,0.000907,0.00555,4,0.005543,0,0,0,0.018979
+Ondernemingsraad ,Ondernemingsraad ,,1,employers organisations and firms,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Sozialdemokratische Partei Deutschlands,Sozialdemokratische Partei Deutschlands,,1,political parties,GERMANY,"#717F75",1,1,8,0.204659,0.22501,0,0.000346,0.002115,16,0.003385,0,0,0,0.006155
+Van Impe Liesbeth,Van Impe Liesbeth,,1,media and journalists,BELGIUM,"#64638E",1,1,2,0.666667,0.75,0,0,0,21,0.00453,16,0,0,0.002524
+Socialistische Partij,Socialistische Partij,,1,political parties,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Greek PM,Greek PM,,1,government/executive,GREECE,"#78767D",1,1,2,0.666667,0.75,0,0,0,17,0.00453,5,0,0,0.002524
+Centraal Plan Bureau,Centraal Plan Bureau,,1,other state executive agencies,NETHERLANDS,"#FFB415",1,2,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Bionext,Bionext,,1,farmers and agricultural organisations,NETHERLANDS,"#FFB415",1,1,6,0.271523,0.315854,0,0.005971,0.036523,19,0.002963,0,0,0,0.060375
+Bulgarian Institute for Legal Initiatives,Bulgarian Institute for Legal Initiatives,,1,civil society organisations and groups,BULGARIA,"#3983AC",1,1,8,0.220826,0.236256,0,0.000428,0.002621,19,0.003397,0,0,0,0.004829
+Ministère de l'Europe,Ministère de l'Europe,,1,government/executive,FRANCE,"#6A886D",2,2,6,0.33515,0.387127,167.733333,0.020399,0.124781,0,0.005207,0,0,0,0.133437
+Blackrock,Blackrock,,1,employers organisations and firms,UNITED STATES,"#EF7DB1",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+ING,ING,,1,employers organisations and firms,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Van Ranst Marc,Van Ranst Marc,,1,other scientific and research professionals and institutions,BELGIUM,"#64638E",1,1,2,0.666667,0.75,0,0,0,21,0.00453,16,0,0,0.002524
+Wethouders van Rotterdam,Wethouders van Rotterdam,,1,government/executive,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Eurostat,Eurostat,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+EU Commissioner for Economy,EU Commissioner for Economy,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Grosser Pierre,Grosser Pierre,,1,media and journalists,FRANCE,"#6A886D",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Xueqin Jiang,Xueqin Jiang,,1,media and journalists,CHINA,"#3F908E",1,1,2,0.666667,0.75,0,0,0,15,0.00453,1,0,0,0.002524
+Humboldt University,Humboldt University,,1,educational professionals and organisations,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Al-Azhar Institute,Al-Azhar Institute,,1,educational professionals and organisations,EGYPT,"#4BAB51",1,1,6,0.243564,0.264905,0,0.000892,0.005453,4,0.003031,0,0,0,0.014005
+Utrecht University,Utrecht University,,1,educational professionals and organisations,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+European External Action Service,European External Action Service,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Vice-President of European Commission,Vice-President of European Commission,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Daily Mail,Daily Mail,,1,media and journalists,UNITED KINGDOM,"#E879A3",1,1,2,0.538462,0.571429,0,0,0,2,0.003565,3,0,0,0.006248
+Guardian,Guardian,,1,media and journalists,UNITED KINGDOM,"#E879A3",1,1,2,0.538462,0.571429,0,0,0,2,0.003565,3,0,0,0.006248
+UK Chief Medical Officer,UK Chief Medical Officer,,1,government/executive,UNITED KINGDOM,"#E879A3",1,1,2,0.538462,0.571429,0,0,0,2,0.003565,3,0,0,0.006248
+University of Leiden,University of Leiden,,1,educational professionals and organisations,NETHERLANDS,"#FFB415",1,1,6,0.328,0.37561,0,0.019602,0.119906,14,0.002984,0,0,0,0.124933
+Italia Viva,Italia Viva,,1,political parties,ITALY,"#B85D6F",1,1,8,0.211704,0.23856,0,0.000379,0.00232,18,0.003294,0,0,0,0.010414
+france constituency,france constituency,,2,constituency/group,FRANCE,"#6A886D",5,6,7,0.289412,0.328358,366.590909,0.038286,0.006259,0,0.013089,0,0,0,0.05002
+european union constituency,european union constituency,,2,constituency/group,EUROPEAN UNION,"#5C9A5C",59,85,5,0.486166,0.657588,5992.542424,0.941774,0.15396,14,0.146018,0,0,0,1
+netherlands constituency,netherlands constituency,,2,constituency/group,NETHERLANDS,"#FFB415",35,61,5,0.371601,0.50935,3015.384848,0.286861,0.046896,19,0.085743,0,0,0,0.433914
+china constituency,china constituency,,2,constituency/group,CHINA,"#3F908E",2,2,1,1,1,1,0,0,15,0.008586,1,0,0,0.003981
+poland constituency,poland constituency,,2,constituency/group,POLAND,"#FFE428",5,6,7,0.20197,0.23736,482,0.000756,0.000124,4,0.014789,0,0,0,0.014257
+albania constituency,albania constituency,,2,constituency/group,ALBANIA,"#D4232A",2,2,1,1,1,1,0,0,1,0.008586,2,0,0,0.003981
+united kingdom constituency,united kingdom constituency,,2,constituency/group,UNITED KINGDOM,"#E879A3",7,10,1,1,1,21,0,0,2,0.022106,3,0,0,0.01837
+germany constituency,germany constituency,,2,constituency/group,GERMANY,"#717F75",5,5,7,0.256785,0.298142,482,0.016613,0.002716,16,0.014733,0,0,0,0.026881
+tibet constituency,tibet constituency,,2,constituency/group,TIBET,"#C2655D",1,1,1,1,1,0,0,0,3,0.005882,4,0,0,0.001872
+regional / global constituency,regional / global constituency,,2,constituency/group,REGIONAL / GLOBAL,"#FFFB31",11,11,5,0.321149,0.375203,1514.481818,0.042833,0.007002,4,0.027826,0,0,0,0.076671
+greece constituency,greece constituency,,2,constituency/group,GREECE,"#78767D",2,2,1,1,1,1,0,0,17,0.008586,5,0,0,0.003981
+libya constituency,libya constituency,,2,constituency/group,LIBYA,"#DE6F33",1,1,1,1,1,0,0,0,5,0.005882,6,0,0,0.001872
+denmark constituency,denmark constituency,,2,constituency/group,DENMARK,"#49A75B",2,4,1,1,1,1,0,0,6,0.008586,7,0,0,0.003981
+syria constituency,syria constituency,,2,constituency/group,SYRIA,"#BB614F",1,1,1,1,1,0,0,0,7,0.005882,8,0,0,0.001872
+united states constituency,united states constituency,,2,constituency/group,UNITED STATES,"#EF7DB1",1,1,1,1,1,0,0,0,8,0.005882,9,0,0,0.001872
+turkey constituency,turkey constituency,,2,constituency/group,TURKEY,"#D16D79",1,1,1,1,1,0,0,0,9,0.005882,10,0,0,0.001872
+italy constituency,italy constituency,,2,constituency/group,ITALY,"#B85D6F",10,12,7,0.267974,0.330662,1062,0.01822,0.002979,18,0.028392,0,0,0,0.046123
+spain constituency,spain constituency,,2,constituency/group,SPAIN,"#AF6729",1,1,7,0.280182,0.303426,0,0.020245,0.00331,19,0.003054,0,0,0,0.024206
+sweden constituency,sweden constituency,,2,constituency/group,SWEDEN,"#AC5933",2,3,1,1,1,1,0,0,10,0.008586,11,0,0,0.003981
+ukraine constituency,ukraine constituency,,2,constituency/group,UKRAINE,"#E07595",1,1,1,1,1,0,0,0,11,0.005882,12,0,0,0.001872
+switzerland constituency,switzerland constituency,,2,constituency/group,SWITZERLAND,"#B35D41",1,1,1,1,1,0,0,0,12,0.005882,13,0,0,0.001872
+iraq constituency,iraq constituency,,2,constituency/group,IRAQ,"#9C4F9C",1,1,1,1,1,0,0,0,13,0.005882,14,0,0,0.001872
+bulgaria constituency,bulgaria constituency,,2,constituency/group,BULGARIA,"#3983AC",2,2,7,0.282759,0.30993,122,0.020584,0.003365,19,0.005921,0,0,0,0.026513
+belarus constituency,belarus constituency,,2,constituency/group,BELARUS,"#745A80",3,4,1,1,1,3,0,0,20,0.01129,15,0,0,0.006334
+belgium constituency,belgium constituency,,2,constituency/group,BELGIUM,"#64638E",2,2,1,1,1,1,0,0,21,0.008586,16,0,0,0.003981

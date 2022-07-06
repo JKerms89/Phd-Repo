@@ -1,0 +1,204 @@
+Id,Label,timeset,mode,act_type,nat,colour,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,pageranks,componentnumber,clustering,triangles,eigencentrality
+European Commission,European Commission,,1,government/executive,EUROPEAN UNION,"#5C9A5C",3,10,4,0.377581,0.424479,351.205785,0.021162,0.123111,20,0.00605,0,0,0,0.135399
+Bundnis 90 - Die Grunen,Bundnis 90 - Die Grunen,,1,political parties,GERMANY,"#717F75",4,8,4,0.425249,0.464844,507.161064,0.026287,0.15292,20,0.007587,0,0,0,0.178036
+Süddeutsche Zeitung,Süddeutsche Zeitung,,1,media and journalists,GERMANY,"#717F75",6,22,4,0.462094,0.494792,2073.936948,0.026333,0.153193,20,0.011404,0,0,0,0.186374
+Klimenko Andrei,Klimenko Andrei,,1,the general public,UKRAINE,"#E07595",1,1,2,0.555556,0.6,0,0,0,21,0.003115,1,0,0,0.003821
+Permanent Court of Arbitration,Permanent Court of Arbitration,,1,Judiciary,NA,"#FFA910",1,1,2,0.555556,0.6,0,0,0,21,0.003115,1,0,0,0.003821
+Illarionov Andrei,Illarionov Andrei,,1,economists and financial experts,RUSSIAN FEDERATION,"#E8D430",1,1,1,1,1,0,0,0,1,0.004926,2,0,0,0.001641
+Harvard University,Harvard University,,1,educational professionals and organisations,UNITED STATES,"#EF7DB1",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+NATO Secretary General,NATO Secretary General,,1,military,NA,"#FFA910",1,1,6,0.249513,0.271224,0,0.00198,0.011519,9,0.002298,0,0,0,0.017479
+Pulse of Europe,Pulse of Europe,,1,other civil society organisations and groups,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Hungarian Government,Hungarian Government,,1,government/executive,HUNGARY,"#7F6D85",1,3,2,0.6,0.666667,0,0,0,2,0.003416,3,0,0,0.002692
+President of the EU Commission,President of the EU Commission,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,9,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Bundesminister des Auswärtigen,Bundesminister des Auswärtigen,,1,government/executive,GERMANY,"#717F75",3,6,4,0.419672,0.457682,255.161064,0.025926,0.150821,20,0.005605,0,0,0,0.174052
+French Government,French Government,,1,government/executive,FRANCE,"#6A886D",2,3,4,0.401254,0.440755,113.636178,0.023946,0.139302,20,0.004047,0,0,0,0.156573
+Sluha Narodu,Sluha Narodu,,1,political parties,UKRAINE,"#E07595",1,1,2,0.555556,0.6,0,0,0,21,0.003115,1,0,0,0.003821
+Ukrainian Government,Ukrainian Government,,1,government/executive,UKRAINE,"#E07595",1,1,2,0.555556,0.6,0,0,0,21,0.003115,1,0,0,0.003821
+Okologisch-Demokratische Partei,Okologisch-Demokratische Partei,,1,political parties,GERMANY,"#717F75",2,2,6,0.298368,0.336849,42.319102,0.007034,0.040919,9,0.003902,0,0,0,0.059629
+Die Linke,Die Linke,,1,political parties,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Partidul Conservator,Partidul Conservator,,1,political parties,ROMANIA,"#F9F332",1,1,1,1,1,0,0,0,3,0.004926,4,0,0,0.001641
+Bundestagspräsident,Bundestagspräsident,,1,legislative,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Lega Nord,Lega Nord,,1,political parties,ITALY,"#B85D6F",2,2,4,0.366762,0.411458,103.539683,0.019866,0.11557,6,0.004095,0,0,0,0.124026
+Brexit negotiator,Brexit negotiator,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Mayor of Freising,Mayor of Freising,,1,government/executive,GERMANY,"#717F75",1,2,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+DGB,DGB,,1,unions and employees,GERMANY,"#717F75",1,2,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Alternative fur Deutschland,Alternative fur Deutschland,,1,political parties,GERMANY,"#717F75",2,2,4,0.401254,0.440755,113.636178,0.023946,0.139302,11,0.004047,0,0,0,0.156573
+German Government,German Government,,1,government/executive,GERMANY,"#717F75",5,18,4,0.428094,0.470052,632.161064,0.026653,0.155049,20,0.009621,0,0,0,0.181693
+Austrian PM,Austrian PM,,1,government/executive,AUSTRIA,"#944863",1,2,1,1,1,0,0,0,4,0.004926,5,0,0,0.001641
+Augsburg University,Augsburg University,,1,educational professionals and organisations,GERMANY,"#717F75",1,2,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Christlich Soziale Union,Christlich Soziale Union,,1,political parties,GERMANY,"#717F75",2,5,4,0.401254,0.440755,113.636178,0.023946,0.139302,11,0.004047,0,0,0,0.156573
+European Conservatives and Reformist Group,European Conservatives and Reformist Group,,1,political parties,EUROPEAN UNION,"#5C9A5C",1,1,2,0.6,0.666667,0,0,0,7,0.003416,6,0,0,0.002692
+Volkshochschule Eching,Volkshochschule Eching,,1,educational professionals and organisations,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Academic,Academic,,1,educational professionals and organisations,NA,"#FFA910",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Mayor of Eching,Mayor of Eching,,1,government/executive,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Luxembourg Government,Luxembourg Government,,1,government/executive,LUXEMBOURG,"#F17815",1,1,2,0.571429,0.625,0,0,0,5,0.003228,7,0,0,0.003246
+LSAP,LSAP,,1,political parties,LUXEMBOURG,"#F17815",1,1,2,0.571429,0.625,0,0,0,5,0.003228,7,0,0,0.003246
+Luxembourg for Finance,Luxembourg for Finance,,1,employers organisations and firms,LUXEMBOURG,"#F17815",1,1,2,0.571429,0.625,0,0,0,5,0.003228,7,0,0,0.003246
+Sozialdemokratische Partei Deutschlands,Sozialdemokratische Partei Deutschlands,,1,political parties,GERMANY,"#717F75",1,3,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Ministère des Affaires étrangères LU,Ministère des Affaires étrangères LU,,1,government/executive,LUXEMBOURG,"#F17815",1,1,2,0.571429,0.625,0,0,0,5,0.003228,7,0,0,0.003246
+UK Conservative Party,UK Conservative Party,,1,political parties,UNITED KINGDOM,"#E879A3",1,2,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+Musician,Musician,,1,media and journalists,NA,"#FFA910",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Italian Government,Italian Government,,1,government/executive,ITALY,"#B85D6F",2,4,6,0.27409,0.29974,47.872475,0.002954,0.017187,6,0.00395,0,0,0,0.027082
+Zentralrats der Muslime,Zentralrats der Muslime,,1,churches and religious organizations and groups,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+BDA,BDA,,1,unions and employees,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Merten Hans-Lothar,Merten Hans-Lothar,,1,economists and financial experts,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+BDI - Bundesverband der deutschen Industrie,BDI - Bundesverband der deutschen Industrie,,1,economists and financial experts,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+UK Government,UK Government,,1,government/executive,UNITED KINGDOM,"#E879A3",1,2,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+EU Commissioner for Competition,EU Commissioner for Competition,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,3,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Airbus,Airbus,,1,employers organisations and firms,FRANCE,"#6A886D",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Czech vox pop,Czech vox pop,,1,the general public,CZECH REPUBLIC,"#47A265",1,1,2,0.6,0.666667,0,0,0,7,0.003416,6,0,0,0.002692
+Czech PM,Czech PM,,1,government/executive,CZECH REPUBLIC,"#47A265",1,2,2,0.6,0.666667,0,0,0,7,0.003416,6,0,0,0.002692
+Sri Lanka Government,Sri Lanka Government,,1,government/executive,SRI LANKA,"#A75828",1,1,1,1,1,0,0,0,8,0.004926,9,0,0,0.001641
+SeaWatch,SeaWatch,,1,solidarity and human rights organisations,GERMANY,"#717F75",1,4,6,0.249513,0.271224,0,0.00198,0.011519,9,0.002298,0,0,0,0.017479
+Bundesministerium des Innern,Bundesministerium des Innern,,1,government/executive,GERMANY,"#717F75",4,5,4,0.422442,0.462891,382.161064,0.026282,0.152891,9,0.007607,0,0,0,0.177511
+Bundesverteidigungsministerium,Bundesverteidigungsministerium,,1,government/executive,GERMANY,"#717F75",1,4,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+President of Moldova,President of Moldova,,1,government/executive,MOLDOVA,"#FF9D0C",1,1,2,0.666667,0.75,0,0,0,10,0.003794,10,0,0,0.002157
+New Times,New Times,,1,media and journalists,RUSSIAN FEDERATION,"#E8D430",1,1,2,0.666667,0.75,0,0,0,10,0.003794,10,0,0,0.002157
+Bundesrechnungshof ,Bundesrechnungshof ,,1,government/executive,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Bayerischer Ministerpräsident,Bayerischer Ministerpräsident,,1,government/executive,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Schröder Richard,Schröder Richard,,1,churches and religious organizations and groups,GERMANY,"#717F75",1,1,6,0.249513,0.271224,0,0.00198,0.011519,9,0.002298,0,0,0,0.017479
+EU Foreign Ministers,EU Foreign Ministers,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.214405,0.229818,0,0.000276,0.001604,23,0.002805,0,0,0,0.003928
+Ministère de la Défense,Ministère de la Défense,,1,government/executive,FRANCE,"#6A886D",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Bundesverfassungsgericht,Bundesverfassungsgericht,,1,judiciary,GERMANY,"#717F75",1,2,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Bild,Bild,,1,media and journalists,GERMANY,"#717F75",2,7,4,0.401254,0.440755,113.636178,0.023946,0.139302,11,0.004047,0,0,0,0.156573
+British PM,British PM,,1,government/executive,UNITED KINGDOM,"#E879A3",1,2,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+First Minister for Wales,First Minister for Wales,,1,government/executive,UNITED KINGDOM,"#E879A3",1,1,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+Sinn Fein,Sinn Fein,,1,political parties,IRELAND,"#A5548D",1,1,2,0.571429,0.625,0,0,0,16,0.003228,11,0,0,0.003246
+Deutscher Sparkassen- und Giroverband,Deutscher Sparkassen- und Giroverband,,1,employers organisations and firms,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Presidente del Consiglio,Presidente del Consiglio,,1,government/executive,ITALY,"#B85D6F",2,2,4,0.366762,0.411458,103.539683,0.019866,0.11557,6,0.004095,0,0,0,0.124026
+Deutsches Institut für Wirtschaftsforschung,Deutsches Institut für Wirtschaftsforschung,,1,other scientific and research professionals and institutions,GERMANY,"#717F75",2,2,4,0.401254,0.440755,113.636178,0.023946,0.139302,11,0.004047,0,0,0,0.156573
+US President,US President,,1,government/executive,UNITED STATES,"#EF7DB1",1,3,2,0.6,0.666667,0,0,0,12,0.003416,12,0,0,0.002692
+CDU official,CDU official,,1,politicians,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Adler,Adler,,1,employers organisations and firms,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+FWI,FWI,,1,employers organisations and firms,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Wiha,Wiha,,1,employers organisations and firms,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Syrian Democratic Forces,Syrian Democratic Forces,,1,military,SYRIA,"#BB614F",1,1,6,0.232305,0.244271,0,0.000366,0.002129,13,0.002736,0,0,0,0.004079
+Turkey Ministry of Foreign Affairs,Turkey Ministry of Foreign Affairs,,1,government/executive,TURKEY,"#D16D79",1,1,6,0.246628,0.258073,0,0.000642,0.003737,23,0.002534,0,0,0,0.006542
+Democratic Unionist Party,Democratic Unionist Party,,1,political parties,UNITED KINGDOM,"#E879A3",1,1,2,0.571429,0.625,0,0,0,16,0.003228,11,0,0,0.003246
+ECB President,ECB President,,1,central banks,EUROPEAN UNION,"#5C9A5C",1,3,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+ex-ECB President,ex-ECB President,,1,central banks,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Israel Embassy in Germany,Israel Embassy in Germany,,1,government/executive,ISRAEL,"#AF587E",1,1,2,0.6,0.666667,0,0,0,15,0.003416,13,0,0,0.002692
+Landwirtschaftsministerium,Landwirtschaftsministerium,,1,government/executive,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Palestine Liberation Organization,Palestine Liberation Organization,,1,solidarity and human rights organisations,EGYPT,"#4BAB51",1,1,1,1,1,0,0,0,14,0.004926,14,0,0,0.001641
+Israel Ministry of Transport,Israel Ministry of Transport,,1,government/executive,ISRAEL,"#AF587E",1,1,2,0.6,0.666667,0,0,0,15,0.003416,13,0,0,0.002692
+George Mason University,George Mason University,,1,educational professionals and organisations,UNITED STATES,"#EF7DB1",1,1,2,0.6,0.666667,0,0,0,15,0.003416,13,0,0,0.002692
+Ministère de l'Économie,Ministère de l'Économie,,1,government/executive,FRANCE,"#6A886D",1,2,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Nestlé,Nestlé,,1,employers organisations and firms,SWITZERLAND,"#B35D41",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Group of the Greens - European Free Alliance,Group of the Greens - European Free Alliance,,1,political parties,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+En Marche,En Marche,,1,political parties,FRANCE,"#6A886D",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Christlich Demokratische Union,Christlich Demokratische Union,,1,political parties,GERMANY,"#717F75",1,2,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+EU Commissioner for Trade,EU Commissioner for Trade,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Ost-Ausschuss,Ost-Ausschuss,,1,employers organisations and firms,GERMANY,"#717F75",1,2,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+EU Counter-Terrorism Coordinator,EU Counter-Terrorism Coordinator,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+EU Council,EU Council,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,2,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Polish PM,Polish PM,,1,government/executive,POLAND,"#FFE428",1,1,6,0.247582,0.263542,0,0.000394,0.002292,24,0.002689,0,0,0,0.007753
+Médecins Sans Frontières,Médecins Sans Frontières,,1,solidarity and human rights organisations,NA,"#FFA910",1,1,6,0.249513,0.271224,0,0.00198,0.011519,9,0.002298,0,0,0,0.017479
+La France Insoumise,La France Insoumise,,1,political parties,FRANCE,"#6A886D",1,1,2,0.6,0.666667,0,0,0,25,0.003416,15,0,0,0.002692
+Rassemblement National,Rassemblement National,,1,political parties,FRANCE,"#6A886D",1,1,2,0.6,0.666667,0,0,0,25,0.003416,15,0,0,0.002692
+European People's Party,European People's Party,,1,legislative,EUROPEAN UNION,"#5C9A5C",1,2,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Deputy Northern Irish PM,Deputy Northern Irish PM,,1,government/executive,NORTHERN IRELAND,"#FFC01A",1,1,2,0.571429,0.625,0,0,0,16,0.003228,11,0,0,0.003246
+Irish PM,Irish PM,,1,government/executive,IRELAND,"#A5548D",1,1,2,0.571429,0.625,0,0,0,16,0.003228,11,0,0,0.003246
+EU High Representative,EU High Representative,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Ministre chargé des Affaires européennes,Ministre chargé des Affaires européennes,,1,government/executive,FRANCE,"#6A886D",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+European External Action Service,European External Action Service,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,6,0.216582,0.230469,0,0.000291,0.00169,0,0.002789,0,0,0,0.003497
+DIHK,DIHK,,1,employers organisations and firms,GERMANY,"#717F75",1,2,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Spanish farmer,Spanish farmer,,1,farmers and agricultural organisations,SPAIN,"#AF6729",1,1,6,0.244742,0.257682,0,0.000377,0.002194,26,0.002699,0,0,0,0.005903
+Government of Marocco,Government of Marocco,,1,government/executive,MAROCCO,"#FF9107",1,1,6,0.244742,0.257682,0,0.000377,0.002194,26,0.002699,0,0,0,0.005903
+Il Fatto Quotidiano,Il Fatto Quotidiano,,1,media and journalists,ITALY,"#B85D6F",1,1,6,0.252465,0.265885,0,0.000974,0.005668,6,0.002392,0,0,0,0.009603
+ECDC,ECDC,,1,other state executive agencies,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+EU Commissioner for Environment,EU Commissioner for Environment,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+German economist,German economist,,1,economists and financial experts,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Chancellor of the Exchequer,Chancellor of the Exchequer,,1,government/executive,UNITED KINGDOM,"#E879A3",1,1,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+Several EU Member States,Several EU Member States,,1,whole polities,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+EU heads of state and government,EU heads of state and government,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+VDMA,VDMA,,1,employers organisations and firms,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Deutscher Städte- und Gemeindebund,Deutscher Städte- und Gemeindebund,,1,government/executive,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Verband der Automobilindustrie,Verband der Automobilindustrie,,1,employers organisations and firms,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Germany,Germany,,1,whole polities,GERMANY,"#717F75",1,1,1,1,1,0,0,0,17,0.004926,16,0,0,0.001641
+US Ambassador in Germany,US Ambassador in Germany,,1,government/executive,UNITED STATES,"#EF7DB1",1,1,1,1,1,0,0,0,18,0.004926,17,0,0,0.001641
+Land schafft Verbindung,Land schafft Verbindung,,1,farmers and agricultural organisations,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Ministero delle Finanze,Ministero delle Finanze,,1,government/executive,ITALY,"#B85D6F",1,1,6,0.252465,0.265885,0,0.000974,0.005668,6,0.002392,0,0,0,0.009603
+Fischer Leohard,Fischer Leohard,,1,economists and financial experts,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Zentralverband Deutsches Kraftfahrzeuggewerbe,Zentralverband Deutsches Kraftfahrzeuggewerbe,,1,employers organisations and firms,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Hoge Raad,Hoge Raad,,1,judiciary,NETHERLANDS,"#FFB415",1,1,6,0.249513,0.271224,0,0.00198,0.011519,9,0.002298,0,0,0,0.017479
+Forum voor Democratie,Forum voor Democratie,,1,political parties,NETHERLANDS,"#FFB415",1,1,1,1,1,0,0,0,19,0.004926,18,0,0,0.001641
+Auswärtiger Ausschuss - Deutscher Bundestag,Auswärtiger Ausschuss - Deutscher Bundestag,,1,legislative,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Freie Demokratische Partei,Freie Demokratische Partei,,1,political parties,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+AHK Beijing,AHK Beijing,,1,employers organisations and firms,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Deutscher Bundestag,Deutscher Bundestag,,1,legislative,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Auswärtiges Amt,Auswärtiges Amt,,1,government/executive,GERMANY,"#717F75",1,1,6,0.231465,0.243229,0,0.000361,0.002099,27,0.002721,0,0,0,0.003984
+International Monetary Fund,International Monetary Fund,,1,central banks,NA,"#FFA910",1,1,2,0.555556,0.6,0,0,0,21,0.003115,1,0,0,0.003821
+Bundesministerium der Finanzen,Bundesministerium der Finanzen,,1,government/executive,GERMANY,"#717F75",1,1,2,0.6,0.666667,0,0,0,25,0.003416,15,0,0,0.002692
+CDC,CDC,,1,other state executive agencies,UNITED STATES,"#EF7DB1",1,1,2,0.6,0.666667,0,0,0,12,0.003416,12,0,0,0.002692
+Collegium Polonicum,Collegium Polonicum,,1,educational professionals and organisations,POLAND,"#FFE428",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Platforma Obywatelska,Platforma Obywatelska,,1,political parties,POLAND,"#FFE428",1,1,6,0.247582,0.263542,0,0.000394,0.002292,24,0.002689,0,0,0,0.007753
+Prezydent Rzeczypospolitej,Prezydent Rzeczypospolitej,,1,government/executive,POLAND,"#FFE428",1,1,6,0.247582,0.263542,0,0.000394,0.002292,24,0.002689,0,0,0,0.007753
+Gazetę Przed-Wyborczą,Gazetę Przed-Wyborczą,,1,media and journalists,POLAND,"#FFE428",1,1,6,0.247582,0.263542,0,0.000394,0.002292,24,0.002689,0,0,0,0.007753
+Deutsche Gesellschaft für Auswärtige Politik,Deutsche Gesellschaft für Auswärtige Politik,,1,other scientific and research professionals and institutions,GERMANY,"#717F75",1,1,6,0.247582,0.263542,0,0.000394,0.002292,24,0.002689,0,0,0,0.007753
+German vox pop,German vox pop,,1,the general public,GERMANY,"#717F75",2,2,4,0.401254,0.440755,113.636178,0.023946,0.139302,11,0.004047,0,0,0,0.156573
+Boyers Martyn,Boyers Martyn,,1,employers organisations and firms,UNITED KINGDOM,"#E879A3",1,1,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+UK Fisheries,UK Fisheries,,1,employers organisations and firms,UNITED KINGDOM,"#E879A3",1,1,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+National Federation of Fishermen's Organisations,National Federation of Fishermen's Organisations,,1,employers organisations and firms,UNITED KINGDOM,"#E879A3",1,1,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+Brydges Martin,Brydges Martin,,1,unions and employees,UNITED KINGDOM,"#E879A3",1,1,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+ZEW,ZEW,,1,economists and financial experts,GERMANY,"#717F75",1,1,1,1,1,0,0,0,28,0.004926,19,0,0,0.001641
+Transparency International HU,Transparency International HU,,1,other civil society organisations and groups,HUNGARY,"#7F6D85",1,1,2,0.6,0.666667,0,0,0,2,0.003416,3,0,0,0.002692
+Infineon,Infineon,,1,employers organisations and firms,GERMANY,"#717F75",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Robert Koch Institut,Robert Koch Institut,,1,other state executive agencies,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Drakulić Slavenka,Drakulić Slavenka,,1,media and journalists,CROATIA,"#419583",1,1,6,0.252465,0.265885,0,0.000974,0.005668,6,0.002392,0,0,0,0.009603
+Board of Trustees SZFE,Board of Trustees SZFE,,1,educational professionals and organisations,HUNGARY,"#7F6D85",1,1,2,0.6,0.666667,0,0,0,2,0.003416,3,0,0,0.002692
+Union des Théâtres de l'Europe,Union des Théâtres de l'Europe,,1,media and journalists,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Central Statistics Office,Central Statistics Office,,1,other state executive agencies,IRELAND,"#A5548D",1,1,1,1,1,0,0,0,29,0.004926,20,0,0,0.001641
+Facebook,Facebook,,1,employers organisations and firms,ITALY,"#B85D6F",1,1,2,0.6,0.666667,0,0,0,12,0.003416,12,0,0,0.002692
+EU Commissioner for Home Affairs,EU Commissioner for Home Affairs,,1,government/executive,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+EMCDDA,EMCDDA,,1,other state executive agencies,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Bundesversammlung,Bundesversammlung,,1,legislative,SWITZERLAND,"#B35D41",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Avenir Suisse,Avenir Suisse,,1,other scientific and research professionals and institutions,SWITZERLAND,"#B35D41",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Turkish Government,Turkish Government,,1,government/executive,TURKEY,"#D16D79",3,3,4,0.368876,0.416667,487.125,0.01981,0.115243,23,0.006303,0,0,0,0.124893
+UK Labour Party,UK Labour Party,,1,legislative,UNITED KINGDOM,"#E879A3",1,1,2,0.526316,0.55,0,0,0,22,0.002888,8,0,0,0.007002
+Presidente del Gobierno,Presidente del Gobierno,,1,government/executive,SPAIN,"#AF6729",1,2,6,0.244742,0.257682,0,0.000377,0.002194,26,0.002699,0,0,0,0.005903
+Lapuente Víctor,Lapuente Víctor,,1,educational professionals and organisations,SPAIN,"#AF6729",1,1,6,0.244742,0.257682,0,0.000377,0.002194,26,0.002699,0,0,0,0.005903
+European Court of Justice,European Court of Justice,,1,judiciary,EUROPEAN UNION,"#5C9A5C",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+Neue Soziale Marktwirtschaft,Neue Soziale Marktwirtschaft,,1,economists and financial experts,GERMANY,"#717F75",1,1,6,0.285078,0.316276,0,0.005054,0.0294,11,0.002343,0,0,0,0.04215
+Government of Turkish-Cyprus,Government of Turkish-Cyprus,,1,government/executive,CYPRUS,"#459E6F",1,1,6,0.214405,0.229818,0,0.000276,0.001604,23,0.002805,0,0,0,0.003928
+Belgian Government,Belgian Government,,1,government/executive,BELGIUM,"#64638E",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+President of the European Parliament,President of the European Parliament,,1,Legislative,EUROPEAN UNION,"#5C9A5C",1,1,1,1,1,0,0,0,30,0.004926,21,0,0,0.001641
+Ministry of National Defense of Turkey,Ministry of National Defense of Turkey,,1,government/executive,TURKEY,"#D16D79",1,1,6,0.246628,0.258073,0,0.000642,0.003737,23,0.002534,0,0,0,0.006542
+Gazeta Wyborcza,Gazeta Wyborcza,,1,media and journalists,POLAND,"#FFE428",1,1,6,0.247582,0.263542,0,0.000394,0.002292,24,0.002689,0,0,0,0.007753
+minister sprawiedliwości,minister sprawiedliwości,,1,government/executive,POLAND,"#FFE428",1,1,6,0.247582,0.263542,0,0.000394,0.002292,24,0.002689,0,0,0,0.007753
+Supreme Leader,Supreme Leader,,1,government/executive,IRAN,"#94539E",1,1,1,1,1,0,0,0,31,0.004926,22,0,0,0.001641
+Hungarian opposition parties,Hungarian opposition parties,,1,political parties,HUNGARY,"#7F6D85",1,1,4,0.356546,0.398438,0,0.018892,0.109902,20,0.002442,0,0,0,0.114423
+regional / global constituency,regional / global constituency,,2,constituency/group,REGIONAL / GLOBAL,"#FFFB31",12,16,5,0.331606,0.388021,781.163574,0.098977,0.017014,9,0.022025,0,0,0,0.129872
+european union constituency,european union constituency,,2,constituency/group,EUROPEAN UNION,"#5C9A5C",70,134,3,0.551724,0.713542,6266.312595,0.944368,0.162335,20,0.140366,0,0,0,1
+ukraine constituency,ukraine constituency,,2,constituency/group,UKRAINE,"#E07595",5,5,1,1,1,10,0,0,21,0.013984,1,0,0,0.009943
+russia constituency,russia constituency,,2,constituency/group,RUSSIA,"#F0E431",1,1,1,1,1,0,0,0,1,0.004926,2,0,0,0.001641
+hungary constituency,hungary constituency,,2,constituency/group,HUNGARY,"#7F6D85",3,5,1,1,1,3,0,0,2,0.009455,3,0,0,0.005435
+germany constituency,germany constituency,,2,constituency/group,GERMANY,"#717F75",30,44,5,0.397516,0.498177,2461.201776,0.25263,0.043427,11,0.056682,0,0,0,0.33224
+romania constituency,romania constituency,,2,constituency/group,ROMANIA,"#F9F332",1,1,1,1,1,0,0,0,3,0.004926,4,0,0,0.001641
+austria constituency,austria constituency,,2,constituency/group,AUSTRIA,"#944863",1,2,1,1,1,0,0,0,4,0.004926,5,0,0,0.001641
+czech republic constituency,czech republic constituency,,2,constituency/group,CZECH REPUBLIC,"#47A265",3,4,1,1,1,3,0,0,7,0.009455,6,0,0,0.005435
+luxembourg constituency,luxembourg constituency,,2,constituency/group,LUXEMBOURG,"#F17815",4,4,1,1,1,6,0,0,5,0.011719,7,0,0,0.007598
+united kingdom constituency,united kingdom constituency,,2,constituency/group,UNITED KINGDOM,"#E879A3",10,13,1,1,1,45,0,0,22,0.025306,8,0,0,0.024604
+italy constituency,italy constituency,,2,constituency/group,ITALY,"#B85D6F",7,9,5,0.336842,0.36849,455.308983,0.048706,0.008373,6,0.013622,0,0,0,0.064249
+sri lanka constituency,sri lanka constituency,,2,constituency/group,SRI LANKA,"#A75828",1,1,1,1,1,0,0,0,8,0.004926,9,0,0,0.001641
+moldova constituency,moldova constituency,,2,constituency/group,MOLDOVA,"#FF9D0C",2,2,1,1,1,1,0,0,10,0.007191,10,0,0,0.003451
+cyprus constituency,cyprus constituency,,2,constituency/group,CYPRUS,"#459E6F",3,3,5,0.27234,0.301302,253,0.013785,0.00237,23,0.007298,0,0,0,0.018774
+northern ireland constituency,northern ireland constituency,,2,constituency/group,NORTHERN IRELAND,"#FFC01A",4,4,1,1,1,6,0,0,16,0.011719,11,0,0,0.007598
+united states constituency,united states constituency,,2,constituency/group,UNITED STATES,"#EF7DB1",3,5,1,1,1,3,0,0,12,0.009455,12,0,0,0.005435
+libya constituency,libya constituency,,2,constituency/group,LIBYA,"#DE6F33",1,2,5,0.300469,0.317708,0,0.018044,0.003102,20,0.002376,0,0,0,0.021683
+syria constituency,syria constituency,,2,constituency/group,SYRIA,"#BB614F",2,2,5,0.301887,0.322917,127,0.018292,0.003144,13,0.004703,0,0,0,0.023562
+turkey constituency,turkey constituency,,2,constituency/group,TURKEY,"#D16D79",4,4,5,0.326531,0.34974,292.013072,0.032109,0.00552,23,0.008454,0,0,0,0.042067
+israel constituency,israel constituency,,2,constituency/group,ISRAEL,"#AF587E",3,3,1,1,1,3,0,0,15,0.009455,13,0,0,0.005435
+palestine constituency,palestine constituency,,2,constituency/group,PALESTINE,"#FFD823",1,1,1,1,1,0,0,0,14,0.004926,14,0,0,0.001641
+denmark constituency,denmark constituency,,2,constituency/group,DENMARK,"#49A75B",2,2,5,0.275862,0.30026,127,0.014524,0.002497,0,0.004826,0,0,0,0.017913
+poland constituency,poland constituency,,2,constituency/group,POLAND,"#FFE428",8,8,5,0.328205,0.366536,868,0.019695,0.003386,24,0.018362,0,0,0,0.039825
+france constituency,france constituency,,2,constituency/group,FRANCE,"#6A886D",3,3,1,1,1,3,0,0,25,0.009455,15,0,0,0.005435
+greece constituency,greece constituency,,2,constituency/group,GREECE,"#78767D",1,1,5,0.297674,0.314714,0,0.017793,0.003059,9,0.002357,0,0,0,0.020937
+spain constituency,spain constituency,,2,constituency/group,SPAIN,"#AF6729",5,6,5,0.323232,0.350911,502,0.018849,0.00324,26,0.011538,0,0,0,0.031412
+bosnia constituency,bosnia constituency,,2,constituency/group,BOSNIA,"#546C9D",1,1,1,1,1,0,0,0,17,0.004926,16,0,0,0.001641
+serbia constituency,serbia constituency,,2,constituency/group,SERBIA,"#D0A62D",1,1,1,1,1,0,0,0,18,0.004926,17,0,0,0.001641
+netherlands constituency,netherlands constituency,,2,constituency/group,NETHERLANDS,"#FFB415",1,1,1,1,1,0,0,0,19,0.004926,18,0,0,0.001641
+china constituency,china constituency,,2,constituency/group,CHINA,"#3F908E",2,2,5,0.300469,0.320964,127,0.018041,0.003101,27,0.004667,0,0,0,0.022891
+croatia constituency,croatia constituency,,2,constituency/group,CROATIA,"#419583",1,1,1,1,1,0,0,0,28,0.004926,19,0,0,0.001641
+ireland constituency,ireland constituency,,2,constituency/group,IRELAND,"#A5548D",1,1,1,1,1,0,0,0,29,0.004926,20,0,0,0.001641
+belarus constituency,belarus constituency,,2,constituency/group,BELARUS,"#745A80",1,1,1,1,1,0,0,0,30,0.004926,21,0,0,0.001641
+iran constituency,iran constituency,,2,constituency/group,IRAN,"#94539E",1,1,1,1,1,0,0,0,31,0.004926,22,0,0,0.001641

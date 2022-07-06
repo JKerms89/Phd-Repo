@@ -1,0 +1,36 @@
+
+==================================================================================================================
+                                                            Poland        Italy         Netherlands   Germany     
+------------------------------------------------------------------------------------------------------------------
+nodefactor.act_scope2.Global / Regional                         0.26          0.52         -0.45         -0.10    
+                                                               (0.28)        (0.35)        (0.32)        (0.26)   
+nodefactor.act_scope2.Other EU Member State                    -0.38         -1.13 **      -1.30 ***     -1.38 ***
+                                                               (0.24)        (0.39)        (0.25)        (0.24)   
+nodefactor.act_scope2.Own Country, National                    -0.55 *       -0.82 **      -0.85 **      -0.29    
+                                                               (0.26)        (0.31)        (0.26)        (0.22)   
+mix.act_scope2.Own Country, National.Own Country, National      2.51 ***      2.83 ***      2.13 ***      1.03 ** 
+                                                               (0.39)        (0.49)        (0.49)        (0.40)   
+mix.act_scope2.EU Supranational.Own Country, National           1.33 ***      0.61         -2.73 *       -1.03 *  
+                                                               (0.37)        (0.48)        (1.07)        (0.49)   
+mix.act_scope2.Other EU Member State.Own Country, National      0.27          1.56 **      -0.40          0.01    
+                                                               (0.34)        (0.51)        (0.51)        (0.41)   
+mix.act_scope2.Own Country, National.EU Supranational           2.05 ***      2.44 ***      1.39 ***      1.42 ***
+                                                               (0.35)        (0.42)        (0.40)        (0.33)   
+mix.act_scope2.EU Supranational.EU Supranational                2.00 ***      1.71 **       0.53          1.06 ** 
+                                                               (0.48)        (0.56)        (0.47)        (0.40)   
+mix.act_scope2.Other EU Member State.EU Supranational           1.01 **       2.07 ***      0.85 *        1.12 ** 
+                                                               (0.35)        (0.51)        (0.40)        (0.35)   
+mix.act_scope2.Own Country, National.Other EU Member State      0.67 *        2.17 ***      1.07 **       1.18 ***
+                                                               (0.32)        (0.49)        (0.41)        (0.35)   
+mix.act_scope2.EU Supranational.Other EU Member State           0.83 *        1.74 ***      0.21          1.02 ** 
+                                                               (0.36)        (0.53)        (0.43)        (0.36)   
+mix.act_scope2.Other EU Member State.Other EU Member State      1.25 ***      3.16 ***      1.89 ***      2.46 ***
+                                                               (0.33)        (0.70)        (0.47)        (0.43)   
+edges                                                          -6.55 ***     -6.22 ***     -5.15 ***     -5.57 ***
+                                                               (0.45)        (0.53)        (0.44)        (0.38)   
+------------------------------------------------------------------------------------------------------------------
+AIC                                                          9709.74       6288.87       6650.08       8053.09    
+BIC                                                          9848.36       6415.48       6781.67       8186.73    
+Log Likelihood                                              -4841.87      -3131.44      -3312.04      -4013.55    
+==================================================================================================================
+*** p < 0.001; ** p < 0.01; * p < 0.05

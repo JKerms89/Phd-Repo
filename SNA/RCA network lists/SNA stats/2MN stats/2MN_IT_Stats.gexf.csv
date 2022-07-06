@@ -1,0 +1,156 @@
+Id,Label,timeset,mode,act_type,nat,colour,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,pageranks,componentnumber,clustering,triangles,eigencentrality
+La Nazione,,,1,La Nazione,ITALY,"#B85D6F",2,5,4,0.456446,0.480916,189.1,0.020859,0.14998,4,0.005477,0,0,0,0.187342
+Partito Democratico,,,1,Partito Democratico,ITALY,"#B85D6F",2,26,4,0.456446,0.480916,189.1,0.020859,0.14998,4,0.005477,0,0,0,0.187342
+Lega Nord,,,1,Lega Nord,ITALY,"#B85D6F",1,11,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Italian Government,,,1,Italian Government,ITALY,"#B85D6F",2,19,4,0.456446,0.480916,189.1,0.020859,0.14998,4,0.005477,0,0,0,0.187342
+Export USA,,,1,Export USA,UNITED STATES,"#EF7DB1",2,2,4,0.456446,0.480916,189.1,0.020859,0.14998,3,0.005477,0,0,0,0.187342
+Gilet jaunes,,,1,Gilet jaunes,FRANCE,"#6A886D",1,2,8,0.203733,0.220811,0,0.000104,0.000749,0,0.003692,0,0,0,0.003381
+University of Verona,,,1,University of Verona,ITALY,"#B85D6F",2,3,4,0.456446,0.480916,189.1,0.020859,0.14998,3,0.005477,0,0,0,0.187342
+President of the European Parliament,,,1,President of the European Parliament,EUROPEAN UNION,"#5C9A5C",1,5,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Le Madamin,,,1,Le Madamin,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Presidente dei Fratelli d'Italia,,,1,Presidente dei Fratelli d'Italia,ITALY,"#B85D6F",1,3,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Fondazione Il Faro,,,1,Fondazione Il Faro,ITALY,"#B85D6F",2,2,4,0.456446,0.480916,189.1,0.020859,0.14998,3,0.005477,0,0,0,0.187342
+Forza Italia,,,1,Forza Italia,ITALY,"#B85D6F",2,14,4,0.456446,0.480916,189.1,0.020859,0.14998,4,0.005477,0,0,0,0.187342
+Movimento 5 Stelle,,,1,Movimento 5 Stelle,ITALY,"#B85D6F",1,10,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Corriere della Sera Foundation,,,1,Corriere della Sera Foundation,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Monti Mario,,,1,Monti Mario,ITALY,"#B85D6F",1,2,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+European Commission,,,1,European Commission,EUROPEAN UNION,"#5C9A5C",3,7,4,0.486989,0.501272,1035.6,0.021259,0.152853,3,0.007926,0,0,0,0.196269
+University student,,,1,University student,NA,"#FFA910",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Maltese Government,,,1,Maltese Government,MALTA,"#FF8502",1,2,1,1,1,0,0,0,1,0.006452,1,0,0,0.001536
+Lawyer,,,1,Lawyer,NA,"#FFA910",1,1,6,0.259406,0.273155,0,0.0004,0.002873,5,0.003418,0,0,0,0.008927
+Archbishop,,,1,Archbishop,NA,"#FFA910",1,1,6,0.259406,0.273155,0,0.0004,0.002873,5,0.003418,0,0,0,0.008927
+Presidente del Consiglio,,,1,Presidente del Consiglio,ITALY,"#B85D6F",2,14,4,0.456446,0.480916,189.1,0.020859,0.14998,4,0.005477,0,0,0,0.187342
+Mayor,,,1,Mayor,NA,"#FFA910",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+French Government,,,1,French Government,FRANCE,"#6A886D",3,6,6,0.338501,0.392112,615,0.008336,0.059939,3,0.008374,0,0,0,0.090975
+Halter Marek,,,1,Halter Marek,FRANCE,"#6A886D",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+University of Bologna,,,1,University of Bologna,ITALY,"#B85D6F",2,3,4,0.456446,0.480916,189.1,0.020859,0.14998,3,0.005477,0,0,0,0.187342
+Boeri Tito,,,1,Boeri Tito,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Environmental activist,,,1,Environmental activist,NA,"#FFA910",1,1,6,0.259406,0.273155,0,0.0004,0.002873,5,0.003418,0,0,0,0.008927
+Casa di Betania,,,1,Casa di Betania,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Popolari per l'Italia,,,1,Popolari per l'Italia,ITALY,"#B85D6F",1,2,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Mayor of Rosignano,,,1,Mayor of Rosignano,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Corte Suprema di Cassazione,,,1,Corte Suprema di Cassazione,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Mayor of Milan,,,1,Mayor of Milan,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Piu Europa,,,1,Piu Europa,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Confcommercio,,,1,Confcommercio,ITALY,"#B85D6F",1,2,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+European People's Party,,,1,European People's Party,EUROPEAN UNION,"#5C9A5C",1,2,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Presidente della repubblica,,,1,Presidente della repubblica,ITALY,"#B85D6F",2,5,4,0.456446,0.480916,189.1,0.020859,0.14998,3,0.005477,0,0,0,0.187342
+Italian vox pop,,,1,Italian vox pop,ITALY,"#B85D6F",2,4,4,0.456446,0.480916,189.1,0.020859,0.14998,4,0.005477,0,0,0,0.187342
+Ministero Finanza Italia,,,1,Ministero Finanza Italia,ITALY,"#B85D6F",1,3,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Ministry of Finance of Austria,,,1,Ministry of Finance of Austria,AUSTRIA,"#944863",1,2,2,0.666667,0.75,0,0,0,2,0.004969,2,0,0,0.002001
+Yuste Foundation,,,1,Yuste Foundation,EUROPEAN UNION,"#5C9A5C",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Forum Nazionale del Terzo Settore,,,1,Forum Nazionale del Terzo Settore,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Fratelli d'Italia,,,1,Fratelli d'Italia,ITALY,"#B85D6F",1,5,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Corriere della Sera,,,1,Corriere della Sera,ITALY,"#B85D6F",2,14,4,0.456446,0.480916,189.1,0.020859,0.14998,3,0.005477,0,0,0,0.187342
+Ministero delle Finanze,,,1,Ministero delle Finanze,ITALY,"#B85D6F",1,2,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Confcooperative,,,1,Confcooperative,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Banca d'Italia,,,1,Banca d'Italia,ITALY,"#B85D6F",1,2,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+ABI,,,1,ABI,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Bohmermann Jan,,,1,Bohmermann Jan,GERMANY,"#717F75",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Ferrera Maurizio,,,1,Ferrera Maurizio,ITALY,"#B85D6F",1,2,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Politecnico Milano University,,,1,Politecnico Milano University,ITALY,"#B85D6F",1,3,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Sozialdemokratische Partei Deutschlands,,,1,Sozialdemokratische Partei Deutschlands,GERMANY,"#717F75",1,1,8,0.208267,0.224882,0,0.000165,0.001185,6,0.003809,0,0,0,0.003438
+Tor Vergata University,,,1,Tor Vergata University,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Busco Paolo,,,1,Busco Paolo,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Ministero dell'agricoltura,,,1,Ministero dell'agricoltura,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Progressive Alliance of Socialists and Democrats,,,1,Progressive Alliance of Socialists and Democrats,EUROPEAN UNION,"#5C9A5C",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Sapelli Giulio,,,1,Sapelli Giulio,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Open Arms,,,1,Open Arms,SPAIN,"#AF6729",1,1,6,0.259406,0.273155,0,0.0004,0.002873,5,0.003418,0,0,0,0.008927
+Mayor of Bergamo,,,1,Mayor of Bergamo,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Mayor of Ponsacco,,,1,Mayor of Ponsacco,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Reichlin Lucrezia,,,1,Reichlin Lucrezia,ITALY,"#B85D6F",1,2,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+International Monetary Fund,,,1,International Monetary Fund,NA,"#FFA910",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Mayor of Brescia,,,1,Mayor of Brescia,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Hungarian Government,,,1,Hungarian Government,HUNGARY,"#7F6D85",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Sachs Jeffrey,,,1,Sachs Jeffrey,UNITED STATES,"#EF7DB1",1,1,6,0.259406,0.273155,0,0.0004,0.002873,5,0.003418,0,0,0,0.008927
+President of the EU Commission,,,1,President of the EU Commission,EUROPEAN UNION,"#5C9A5C",2,7,4,0.456446,0.480916,189.1,0.020859,0.14998,3,0.005477,0,0,0,0.187342
+EU Commissioner for Crisis Management ,,,1,EU Commissioner for Crisis Management ,EUROPEAN UNION,"#5C9A5C",1,1,6,0.259406,0.273155,0,0.0004,0.002873,5,0.003418,0,0,0,0.008927
+Ministero Esteri IT,,,1,Ministero Esteri IT,ITALY,"#B85D6F",2,3,4,0.456446,0.480916,189.1,0.020859,0.14998,4,0.005477,0,0,0,0.187342
+ECB President,,,1,ECB President,EUROPEAN UNION,"#5C9A5C",1,5,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Brembo,,,1,Brembo,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+President of Turkey,,,1,President of Turkey,TURKEY,"#D16D79",1,1,1,1,1,0,0,0,7,0.006452,3,0,0,0.001536
+Accademia della Pace,,,1,Accademia della Pace,ITALY,"#B85D6F",1,1,6,0.259406,0.273155,0,0.0004,0.002873,5,0.003418,0,0,0,0.008927
+Ministero Esteri IT (M5S),,,1,Ministero Esteri IT (M5S),ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Sace-Simest,,,1,Sace-Simest,ITALY,"#B85D6F",1,2,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Vice-President of European Commission,,,1,Vice-President of European Commission,EUROPEAN UNION,"#5C9A5C",1,2,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Prawo i Sprawiedliwosc,,,1,Prawo i Sprawiedliwosc,POLAND,"#FFE428",1,2,2,0.666667,0.75,0,0,0,8,0.004969,4,0,0,0.002001
+Confindustria,,,1,Confindustria,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Tokarczuk Olga,,,1,Tokarczuk Olga,POLAND,"#FFE428",1,1,2,0.666667,0.75,0,0,0,8,0.004969,4,0,0,0.002001
+Ndiaye Mouhamed,,,1,Ndiaye Mouhamed,ITALY,"#B85D6F",1,1,6,0.259406,0.273155,0,0.0004,0.002873,5,0.003418,0,0,0,0.008927
+Consiglio regionale di Terni,,,1,Consiglio regionale di Terni,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Spanish Government,,,1,Spanish Government,SPAIN,"#AF6729",1,1,2,0.666667,0.75,0,0,0,9,0.004969,5,0,0,0.002001
+TG5,,,1,TG5,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+EU Commissioner for Economy,,,1,EU Commissioner for Economy,EUROPEAN UNION,"#5C9A5C",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+UDC,,,1,UDC,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Tukano people,,,1,Tukano people,BRAZIL,"#377EB6",1,1,1,1,1,0,0,0,10,0.006452,6,0,0,0.001536
+Sassoon Donald,,,1,Sassoon Donald,UNITED KINGDOM,"#E879A3",1,1,2,0.6,0.666667,0,0,0,11,0.004474,7,0,0,0.002481
+Emmott Bill,,,1,Emmott Bill,UNITED KINGDOM,"#E879A3",1,1,2,0.6,0.666667,0,0,0,11,0.004474,7,0,0,0.002481
+US President,,,1,US President,UNITED STATES,"#EF7DB1",1,1,2,0.6,0.666667,0,0,0,12,0.004474,8,0,0,0.002481
+Ghidini Gustavo,,,1,Ghidini Gustavo,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Bocconi University,,,1,Bocconi University,ITALY,"#B85D6F",1,2,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Centro Studi Confindustria,,,1,Centro Studi Confindustria,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Burioni Roberto,,,1,Burioni Roberto,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Bundestagspräsident,,,1,Bundestagspräsident,GERMANY,"#717F75",1,1,8,0.208267,0.224882,0,0.000165,0.001185,6,0.003809,0,0,0,0.003438
+Banca Sella,,,1,Banca Sella,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Ministero della Salute,,,1,Ministero della Salute,ITALY,"#B85D6F",1,3,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+US State Department,,,1,US State Department,UNITED STATES,"#EF7DB1",1,1,2,0.6,0.666667,0,0,0,12,0.004474,8,0,0,0.002481
+US Embassy in Italy,,,1,US Embassy in Italy,UNITED STATES,"#EF7DB1",1,2,2,0.6,0.666667,0,0,0,12,0.004474,8,0,0,0.002481
+German Government,,,1,German Government,GERMANY,"#717F75",2,3,6,0.351206,0.40229,384,0.013191,0.094848,6,0.006087,0,0,0,0.112112
+Austria,,,1,Austria,AUSTRIA,"#944863",1,1,2,0.666667,0.75,0,0,0,2,0.004969,2,0,0,0.002001
+Bundesminister des Auswärtigen,,,1,Bundesminister des Auswärtigen,GERMANY,"#717F75",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+EU Member States,,,1,EU Member States,EUROPEAN UNION,"#5C9A5C",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Presidente della Regione Toscana,,,1,Presidente della Regione Toscana,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+TIP S.p.A.,,,1,TIP S.p.A.,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Valls Manuel,,,1,Valls Manuel,FRANCE,"#6A886D",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Mayor of Stazzema,,,1,Mayor of Stazzema,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Mayor of Cantagallo,,,1,Mayor of Cantagallo,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+AlixPartners,,,1,AlixPartners,UNITED STATES,"#EF7DB1",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+EU Ministers for digitalisation,,,1,EU Ministers for digitalisation,EUROPEAN UNION,"#5C9A5C",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Strauss-Kahn Dominique,,,1,Strauss-Kahn Dominique,FRANCE,"#6A886D",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Agenzia Nazionale del Turismo,,,1,Agenzia Nazionale del Turismo,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Fondazione CERM,,,1,Fondazione CERM,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Germany,,,1,Germany,GERMANY,"#717F75",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Greek Ministry of Foreign Affairs,,,1,Greek Ministry of Foreign Affairs,GREECE,"#78767D",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Presidente della Regione Siciliana,,,1,Presidente della Regione Siciliana,ITALY,"#B85D6F",1,3,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Viminale- Ministero Interno,,,1,Viminale- Ministero Interno,ITALY,"#B85D6F",1,3,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Ambassador of Belgium in Italy,,,1,Ambassador of Belgium in Italy,BELGIUM,"#64638E",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+illycaffè,,,1,illycaffè,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+security staff,,,1,security staff,NA,"#FFA910",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+French PM,,,1,French PM,FRANCE,"#6A886D",1,1,8,0.203733,0.220811,0,0.000104,0.000749,0,0.003692,0,0,0,0.003381
+WHO,,,1,WHO,NA,"#FFA910",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Wethouder Nieuwegein,,,1,Wethouder Nieuwegein,NETHERLANDS,"#FFB415",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Mayor of Firenze,,,1,Mayor of Firenze,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+British PM,,,1,British PM,UNITED KINGDOM,"#E879A3",1,1,2,0.6,0.666667,0,0,0,11,0.004474,7,0,0,0.002481
+Ministero dello Sviluppo Economico,,,1,Ministero dello Sviluppo Economico,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Democratici x il NO Foligno,,,1,Democratici x il NO Foligno,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Confindustria Toscana,,,1,Confindustria Toscana,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Mayor of Arezzo,,,1,Mayor of Arezzo,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+EU Council,,,1,EU Council,EUROPEAN UNION,"#5C9A5C",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Agenzia delle dogane e dei Monopoli,,,1,Agenzia delle dogane e dei Monopoli,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Ministerio de Sanidad,,,1,Ministerio de Sanidad,SPAIN,"#AF6729",1,1,2,0.666667,0.75,0,0,0,9,0.004969,5,0,0,0.002001
+Comune di Montefranco,,,1,Comune di Montefranco,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Dompé Sergio,,,1,Dompé Sergio,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Schivardi Fabiano,,,1,Schivardi Fabiano,ITALY,"#B85D6F",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Ref Ricerche,,,1,Ref Ricerche,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+EU Commissioner for Competition,,,1,EU Commissioner for Competition,EUROPEAN UNION,"#5C9A5C",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Farmindustria,,,1,Farmindustria,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+NMS Group,,,1,NMS Group,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+IDeA,,,1,IDeA,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Marcegaglia Emma,,,1,Marcegaglia Emma,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+Italia Viva,,,1,Italia Viva,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+European Medicines Agency,,,1,European Medicines Agency,EUROPEAN UNION,"#5C9A5C",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+BioNTech,,,1,BioNTech,GERMANY,"#717F75",1,1,6,0.318735,0.36285,0,0.007832,0.056317,3,0.003199,0,0,0,0.078667
+Conftrasporto-Confcommercio,,,1,Conftrasporto-Confcommercio,ITALY,"#B85D6F",1,1,6,0.345646,0.393384,0,0.013026,0.093663,4,0.003245,0,0,0,0.108674
+european union constituency,european union constituency,,2,constituency/group,EUROPEAN UNION,"#5C9A5C",57,110,5,0.466192,0.624555,4937,0.510167,0.070953,3,0.149793,0,0,0,0.695348
+italy constituency,italy constituency,,2,constituency/group,ITALY,"#B85D6F",73,174,5,0.526104,0.70598,6188.5,0.848478,0.118005,4,0.19577,0,0,0,1
+france constituency,france constituency,,2,constituency/group,FRANCE,"#6A886D",3,4,7,0.255361,0.287296,259,0.006782,0.000943,0,0.009624,0,0,0,0.01479
+malta constituency,malta constituency,,2,constituency/group,MALTA,"#FF8502",1,2,1,1,1,0,0,0,1,0.006452,1,0,0,0.001536
+regional / global constituency,regional / global constituency,,2,constituency/group,REGIONAL / GLOBAL,"#FFFB31",10,10,5,0.349333,0.385369,1029.5,0.026027,0.00362,5,0.028848,0,0,0,0.052282
+austria constituency,austria constituency,,2,constituency/group,AUSTRIA,"#944863",2,3,1,1,1,1,0,0,2,0.009417,2,0,0,0.003218
+germany constituency,germany constituency,,2,constituency/group,GERMANY,"#717F75",3,4,7,0.262525,0.29353,259,0.010732,0.001493,6,0.010037,0,0,0,0.016161
+turkey constituency,turkey constituency,,2,constituency/group,TURKEY,"#D16D79",1,1,1,1,1,0,0,0,7,0.006452,3,0,0,0.001536
+poland constituency,poland constituency,,2,constituency/group,POLAND,"#FFE428",2,3,1,1,1,1,0,0,8,0.009417,4,0,0,0.003218
+spain constituency,spain constituency,,2,constituency/group,SPAIN,"#AF6729",2,2,1,1,1,1,0,0,9,0.009417,5,0,0,0.003218
+brazil constituency,brazil constituency,,2,constituency/group,BRAZIL,"#377EB6",1,1,1,1,1,0,0,0,10,0.006452,6,0,0,0.001536
+united kingdom constituency,united kingdom constituency,,2,constituency/group,UNITED KINGDOM,"#E879A3",3,3,1,1,1,3,0,0,11,0.012383,7,0,0,0.005051
+united states constituency,united states constituency,,2,constituency/group,UNITED STATES,"#EF7DB1",3,4,1,1,1,3,0,0,12,0.012383,8,0,0,0.005051

@@ -1,0 +1,42 @@
+
+======================================================================================
+                                                           quality        tabloid     
+--------------------------------------------------------------------------------------
+nodematch.act_scope                                            -0.60 ***     -0.14    
+                                                               (0.17)        (0.43)   
+nodeofactor.act_scope.Global / Regional                        -1.25 ***     -1.67 ***
+                                                               (0.17)        (0.40)   
+nodeofactor.act_scope.Other EU Member State                    -1.02 ***     -1.05 *  
+                                                               (0.19)        (0.48)   
+nodeofactor.act_scope.Own Country, National                    -0.46 **      -0.68    
+                                                               (0.18)        (0.37)   
+nodematch.act_nat                                               2.86 ***      2.47 ***
+                                                               (0.08)        (0.16)   
+nodematch.act_type                                              0.93 ***      0.29 *  
+                                                               (0.05)        (0.12)   
+mix.act_scope.Own Country, National.Own Country, National      -0.30         -0.77    
+                                                               (0.19)        (0.47)   
+mix.act_scope.EU Supranational.Own Country, National           -0.30         -1.27 ** 
+                                                               (0.19)        (0.44)   
+mix.act_scope.Other EU Member State.Own Country, National      -0.87 ***     -0.40    
+                                                               (0.17)        (0.44)   
+mix.act_scope.Own Country, National.EU Supranational            1.31 ***      1.75 ***
+                                                               (0.12)        (0.24)   
+mix.act_scope.EU Supranational.EU Supranational                -1.05 ***     -1.56 ** 
+                                                               (0.23)        (0.55)   
+mix.act_scope.Other EU Member State.EU Supranational            0.95 ***      0.65    
+                                                               (0.16)        (0.48)   
+mix.act_scope.Own Country, National.Other EU Member State      -0.97 ***     -0.47    
+                                                               (0.14)        (0.29)   
+mix.act_scope.EU Supranational.Other EU Member State           -0.38 *       -0.60    
+                                                               (0.18)        (0.45)   
+mix.act_scope.Other EU Member State.Other EU Member State       0.48 *        0.32    
+                                                               (0.21)        (0.58)   
+edges                                                          -6.54 ***     -5.39 ***
+                                                               (0.14)        (0.30)   
+--------------------------------------------------------------------------------------
+AIC                                                         25653.97       5263.00    
+BIC                                                         25849.38       5418.18    
+Log Likelihood                                             -12810.99      -2615.50    
+======================================================================================
+*** p < 0.001; ** p < 0.01; * p < 0.05
